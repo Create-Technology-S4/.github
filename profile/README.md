@@ -55,6 +55,10 @@ _For the remainder of my time in this world, I truly hope to have some lasting, 
 
 ### Individual Project
 
+<a href="https://github.com/Creative-Technology-S4/Individual-Project" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Technology-S4&repo=Individual-Project&include_all_commits=true&show_owner=true" /> 
+</a>
+
 ### Duo Project
 
 ### Client Project
