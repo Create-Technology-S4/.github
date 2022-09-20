@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <a href="https://rently-io.herokuapp.com/">
-    <img src="docs/ct-title.png" alt="Title" width="auto" height="60">
+    <img src="https://i.imgur.com/cGIueqo.png" alt="Title" width="auto" height="60">
   <a/>
 </p>
 
