@@ -1,19 +1,78 @@
-# Creative Technology Portfolio
-*Noah Greff, 433819*
+<br />
 
-### Week 1 (Aug 29 - Sep 5)
-- introduced to CT (summary)
-- introduced to process (creative coding)
-- vision board
-- prototyping (ideas into form)
-- avicii
+<p align="center"> 
+  <a href="https://rently-io.herokuapp.com/">
+    <img src="docs/ct-title.png" alt="Title" width="auto" height="60">
+  <a/>
+</p>
 
-### Week 2 (Sep 5 - Sep 9)
-- IP - first prototype (demo)
+<h4 align="center">Noah Greff - 433819</h4>
+<p align="center">This organisation serves as my protfolio for my 4th semester at Fontys Universty of Applied Sciences in Creative Technology.</p>
 
-### Week 3 (Sep 5 - Sep 9)
-- IP - second prototype (demo)
-- IP presentation
+<br/>
 
-### Week 4 (Sep 9 - Sep 16)
-...
+<details>
+  <summary>Table of content</summary>
+  
+  <h3>About Me</h3>
+  <ul><li><a href="#day-7679_">Day #7679_</a></li></ul>
+
+  <h3>Projects</h3>
+  <ul><li><a href="#individual-project">Individual Project</a></li></ul>
+  <ul><li><a href="#duo-project">Duo Project</a></li></ul>
+  <ul><li><a href="#client-project">Client Project</a></li></ul>
+
+  <h3>Learning Outcomes</h3>
+  <ul><li><a href="#vision">Vision</a></li></ul>
+  <ul><li><a href="#innovative-concept">Innovative concept</a></li></ul>
+  <ul><li><a href="#interactive-user-experience">Interactive user experience</a></li></ul>
+  <ul><li><a href="#prototypes">Prototypes</a></li></ul>
+  <ul><li><a href="#present">Present</a></li></ul>
+  <ul><li><a href="#personal-growth">Personal growth</a></li></ul>
+
+  <h3>Reflections</h3>
+  <ul><li><a href="#first-reflection">First Reflection</a></li></ul>
+
+</details>
+
+# About Me
+
+<br />
+
+> ### Day #7679_
+
+_I go by the "Noah" here. It's been just over 21 years that I have spawned into this world._
+
+_I have been able to travel their world numerous times. I have lived in places they name "USA", "France" and "China", the latter of which I have spent over half of my time here. Does that make me "chinese"?_
+
+_I have become accustomed to their ways of thinking and doing things. In particular, their ways of working with technology._
+
+_I am pursuing some academic studies in the field of software engineering; currently in my 4th semester. For this semester, they seem to put emphasis on the creativity aspect of using technology to achieve something._
+
+_For the remainder of my time in this world, I truly hope to have some lasting, positive impact no matter how small._
+
+# Projects
+
+### Individual Project
+
+### Duo Project
+
+### Client Project
+
+# Learning Outcomes
+
+### Vision
+
+### Innovative concept
+
+### Interactive user experience
+
+### Prototypes
+
+### Present
+
+### Personal growth
+
+# Reflection
+
+### First Reflection
