@@ -43,7 +43,7 @@
 
 _I go by the "Noah" here. It's been just over 21 years that I have spawned into this world._
 
-_I have been able to travel their world numerous times. I have lived in places they name "USA", "France" and "China", the latter of which I have spent over half of my time here. Does that make me "chinese"?_
+_I have been able to travel their world. I have lived in places they name "USA", "France" and "China", the latter of which I have spent over half of my time. Does that make me "chinese"?_
 
 _I have become accustomed to their ways of thinking and doing things. In particular, their ways of working with technology._
 
