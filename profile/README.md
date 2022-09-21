@@ -150,57 +150,56 @@ I am happy with the outcome of the project. I can now interact with the game usi
 
 > You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.
 
-#
-
 #### Week 4
 
 When thinking about the relationship between humans and technology, the only practical way a someone can interact with a computer is via the typical mouse and keyboard. I was thinking whether this would always be the case. What if we removed the mouse or keyboard? What would be another peripheral that can be used instead, a camera? I wanted to explore this a bit more in my personal project and built an analog controller that (partially) removes the need to use a mouse to play in the game Minecraft.
+
+#
 
 ### Innovative concept
 
 > You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.
 
-#
-
 #### Week 4
 
 For my personal project, I have spent some time investigating possible ways in which someone can interact with computers without a mouse and keyboard. Initially, I wanted to use a camera and detect the direction of the user and map this to the character's camera however, if the user wanted to look up in the game they would have to look up themselves which would make looking on the screen difficult. A better way was to use a gyroscope that could be held and used as a joystick.  
+
+#
 
 ### Interactive user experience
 
 > You design an experimental interactive user experience that investigates a technology’s potential and its mutual effect on people.
 
-#
-
 #### Week 4
 
 Perhaps the most intriguing work I have done so far almost entirely revolved around user interaction. In my personal project, I have explored ways someone can play a videogame through hand motion. I was thinking about what would be the most fun and, more importantly, more intuitive way someone can control a character's camera. Of the components that were given, I saw the gyroscope as having the most potential to emulate natural user interaction.
+
+#
 
 ### Prototypes
 
 > You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.
 
-#
-
 #### Week 4
 
 In my personal project, I did a series of prototypes which were incrementally better compared to the previous version. Throught prototyping, I was a able to breakdown challenging problems into smaller, more managable problems. This has ultimetly allowed me to quickly add addtional functionalities as I had a clearer fision of the final product. Had this project continued, I believe that I would have been able to add more controls rapidly.
+
+#
 
 ### Present
 
 > You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.
 
-#
 
 #### Week 4
 
 During the demo day, I prepared a presentation showcasing my idea, process and impact of my product. However, I believed that the result of my project was more than just something to present via a presentation and I prepared the game along with the gyroscope for people to use experience the controls for themselves. This made my demonstration more interactive and engaging to people.
 
+#
+
 ### Personal growth
 
 > You articulate your professional ambitions and focus and demonstrate your efforts and growth within the roles you fulfill in your projects.
-
-#
 
 #### Week 4
 
