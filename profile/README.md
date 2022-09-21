@@ -11,6 +11,8 @@
 <p align="center">This document will evolve overtime.</p>
 
 <br/>
+<p align="center"><b>NOTE - images and gif may take time to load.</b></p>
+<br/>
 
 <details>
   <summary>Table of content</summary>
