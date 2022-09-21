@@ -30,9 +30,6 @@
   <ul><li><a href="#prototypes">Prototypes</a></li></ul>
   <ul><li><a href="#present">Present</a></li></ul>
   <ul><li><a href="#personal-growth">Personal growth</a></li></ul>
-
-  <h3>Reflections</h3>
-  <ul><li><a href="#first-reflection">First Reflection</a></li></ul>
 </details>
 
 # About Me
