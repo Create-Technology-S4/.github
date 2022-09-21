@@ -8,6 +8,7 @@
 
 <h4 align="center">Noah Greff - 433819</h4>
 <p align="center">This organisation serves as my protfolio for my 4th semester at Fontys Universty of Applied Sciences in Creative Technology.</p>
+<p align="center">This document will evolve overtime.</p>
 
 <br/>
 
@@ -32,7 +33,6 @@
 
   <h3>Reflections</h3>
   <ul><li><a href="#first-reflection">First Reflection</a></li></ul>
-
 </details>
 
 # About Me
@@ -77,9 +77,16 @@ To make my idea come to light, I had to break down my project into smaller steps
 
 ##### First Attempt
 
-My first attempt 
+My first attempt was very much an experimental phase where I was familiarizing myself with programming for arduino's. 
+
+Beyond that, this first attempt was all about trying establishing a communication line between the arduino and the game. I initially wanted to achieve this wirelessly but the complexity of such a thing would be time consuming and that was beyond the scope of what my project so ended using the arduino's serial port to send data.
+
+As a proof of concept, I decided to use a potentiometer to simply change the time of day in the game's world as shown in the first image below (left).
+
+This initial prototype, altough very basic, took me the longest to achieve as it was all about being able to send data from an analog input into the game. The second image (right) shows the first result of my work. As can be seen, the delay between the input and the ingame time being updated is _very_ large. There is Approximately 9 seconds between an input and an update which is nowhere near as fast as it needs to be for a good user interaction. So I set out to make my second prototype.
 
 <p align="center">
+  <img src="docs/individual-project/setup.jpg" height="500" />
   <img src="docs/individual-project/first.gif" height="500" />
 </p>
 
