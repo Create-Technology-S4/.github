@@ -7,7 +7,7 @@
 </p>
 
 <h4 align="center">Noah Greff - 433819</h4>
-<p align="center">This organisation serves as my protfolio for my 4th semester at Fontys Universty of Applied Sciences in Creative Technology.</p>
+<p align="center">This organisation serves as my portfolio for my 4th semester at Fontys University of Applied Sciences in Creative Technology.</p>
 <p align="center">This document will evolve overtime.</p>
 
 <br/>
@@ -72,23 +72,23 @@ The source code of my project can be found here:
 
 ### Conceptualization
 
-When I was first introduced to what it means to be a creative technologist, one thing struck me in particular: user interactivity. Essentially, how will viwers/users interact with your work. With this in mind, I started brainstorming some ideas of what I could potentially do for my project.
+When I was first introduced to what it means to be a creative technologist, one thing struck me in particular: user interactivity. Essentially, how will viewers/users interact with your work. With this in mind, I started brainstorming some ideas of what I could potentially do for my project.
 
-As a software student, my area of expertise in technology is definitively software. However, when I think about user interactivity, there is always some hardware element that is used to control something virtually. Luckly, we were given various arduino components to play around with. I had all the ingredients I needed to make something interactive.
+As a software student, my area of expertise in technology is definitively software. However, when I think about user interactivity, there is always some hardware element that is used to control something virtually. Luckily, we were given various arduino components to play around with. I had all the ingredients I needed to make something interactive.
 
-There is a lot of different places I could combine software and hardware to make something interact. To me, the domain that makes the most sense for such an idea is a videogame. Due the time constraints, I did not want to make build a game from scratch as that was not the main focus of my project so I settled on using a game that already existed and choose the game _Minecraft_.
+There is a lot of different places I could combine software and hardware to make something interact. To me, the domain that makes the most sense for such an idea is a video game. Due to the time constraints, I did not want to make build a game from scratch as that was not the main focus of my project, so I settled on using a game that already existed and choose the game _Minecraft_.
 
-3D videogames typially use some peripherals that allows the player to control a character. Specifically, the mouse is used to control the direction of the character's viewport (camera) and the keyboard trigger motion and I thought why not replace one of the peripherals with one of the components given. For my idea, I decided to use the gyroscope to control the camera. Why not map the gyroscope's orientation vector to the directional vector of the camera?
+3D video games typically use some peripherals that allows the player to control a character. Specifically, the mouse is used to control the direction of the character's viewport (camera) and the keyboard trigger motion and I thought why not replace one of the peripherals with one of the components given. For my idea, I decided to use the gyroscope to control the camera. Why not map the gyroscope's orientation vector to the directional vector of the camera?
 
-### Prototypings
+### Prototyping
 
-To make my idea come to light, I had to break down my project into smaller steps since I have never worked on such an idea before. Throughout this project, I came up with 3 different prototype where, to my suprise, we can clearly depict an evolution.
+To make my idea come to light, I had to break down my project into smaller steps since I have never worked on such an idea before. Throughout this project, I came up with 3 different prototype where, to my surprise, we can clearly depict an evolution.
 
 #### First Attempt
 
 My first attempt was very much an experimental phase where I was familiarizing myself with programming for arduino's. 
 
-Beyond that, this first attempt was all about trying establishing a communication line between the arduino and the game. I initially wanted to achieve this wirelessly but the complexity of such a thing would be time consuming and that was beyond the scope of what my project so ended using the arduino's serial port to send data.
+Beyond that, this first attempt was all about trying establishing a communication line between the arduino and the game. I initially wanted to achieve this wirelessly but the complexity of such a thing would be time-consuming and that was beyond the scope of what my project so ended using the arduino's serial port to send data.
 
 As a proof of concept, I decided to use a potentiometer to simply change the time of day in the game's world as shown in the first image below (left).
 
@@ -101,9 +101,9 @@ This initial prototype, albeit very basic, took me the longest to achieve as it 
 
 #### Second Attempt
 
-My second prototype was all about increasing the response time between an input and an update. Altough the hardware setup remained identical, most of the changes were software-related. I figured if the arduino by itself is capable printing its value extremely fast on the serial monitor on my computer than the delay is most likely software-related. 
+My second prototype was all about increasing the response time between an input and an update. Although the hardware setup remained identical, most of the changes were software-related. I figured if the arduino by itself is capable printing its value extremely fast on the serial monitor on my computer than the delay is most likely software-related. 
 
-After some _long_ nights (which eventually turned into short mornings) I have completely changed the way data is received by the game and was ultimately able to achieve a response time that had no noticable delays. In addtion, now instead of sending primitive types as strings, I can send data in JSON format (with [this class](https://github.com/Creative-Technology-S4/Individual-Project/blob/master/src/main/java/me/noahgreff/s4ct/SerialPortJsonReader.java) in a [neat way](https://github.com/Creative-Technology-S4/Individual-Project/blob/master/src/main/java/me/noahgreff/s4ct/Main.java#L30)) which grealty increases the flexibility I have for adding more components in the future (such as the gyroscope). 
+After some _long_ nights (which eventually turned into short mornings) I have completely changed the way data is received by the game and was ultimately able to achieve a response time that had no noticeable delays. In addition, now instead of sending primitive types as strings, I can send data in JSON format (with [this class](https://github.com/Creative-Technology-S4/Individual-Project/blob/master/src/main/java/me/noahgreff/s4ct/SerialPortJsonReader.java) in a [neat way](https://github.com/Creative-Technology-S4/Individual-Project/blob/master/src/main/java/me/noahgreff/s4ct/Main.java#L30)) which greatly increases the flexibility I have for adding more components in the future (such as the gyroscope). 
 
 Ultimately, the only delay was that of the game's update frequency which is 20hz. For user interactivity, this was fine. The results are shown below.
 
@@ -113,7 +113,7 @@ Ultimately, the only delay was that of the game's update frequency which is 20hz
 
 #### Final Attempt
 
-For my third and final attempt, I set out to actually implement the gyroscope to control the character's camera. This final prototype was relatively quick to implement as most the useful and time consuming work has been done by the prior prototypes. It was just a matter of listening for the right data and updating the camera's angle on every tick (20 times per second). 
+For my third and final attempt, I set out to actually implement the gyroscope to control the character's camera. This final prototype was relatively quick to implement as most the useful and time-consuming work has been done by the prior prototypes. It was just a matter of listening for the right data and updating the camera's angle on every tick (20 times per second). 
 
 This resulted in the demo below.
 
@@ -123,7 +123,7 @@ This resulted in the demo below.
 
 ## Reflection
 
-This project has been really fun to work on. Unlike most project I worked on in the past, the short time given has given me a new way of working in the sense that I had to focus on the stuff that mattered most. This project felt like it was more of a hackathon to qucikly get ideas into form. I wished I was given more time to work on this as I think I would have been able to polish my example way more and perhaps even intergrate a component to also trigger movement.
+This project has been really fun to work on. Unlike most project I worked on in the past, the short time given has given me a new way of working in the sense that I had to focus on the stuff that mattered most. This project felt like it was more of a hackathon to quickly get ideas into form. I wished I was given more time to work on this as I think I would have been able to polish my example way more and perhaps even integrate a component to also trigger movement.
 
 I am happy with the outcome of the project. I can now interact with the game using a gyroscope and I think it is really cool.
 
@@ -149,7 +149,7 @@ I am happy with the outcome of the project. I can now interact with the game usi
 
 #### Week 4
 
-When thinking about the relationship between humans and technology, the only practical way a someone can interact with a computer is via the typical mouse and keyboard. I was thinking whether this would always be the case. What if we removed the mouse or keyboard? What would be another peripheral that can be used instead, a camera? I wanted to explore this a bit more in my personal project and built an analog controller that (partially) removes the need to use a mouse to play in the game Minecraft.
+When thinking about the relationship between humans and technology, the only practical way someone can interact with a computer is via the typical mouse and keyboard. I was thinking whether this would always be the case. What if we removed the mouse or keyboard? What would be another peripheral that can be used instead, a camera? I wanted to explore this a bit more in my personal project and built an analog controller that (partially) removes the need to use a mouse to play in the game Minecraft.
 
 #
 
@@ -169,7 +169,7 @@ For my personal project, I have spent some time investigating possible ways in w
 
 #### Week 4
 
-Perhaps the most intriguing work I have done so far almost entirely revolved around user interaction. In my personal project, I have explored ways someone can play a videogame through hand motion. I was thinking about what would be the most fun and, more importantly, more intuitive way someone can control a character's camera. Of the components that were given, I saw the gyroscope as having the most potential to emulate natural user interaction.
+Perhaps the most intriguing work I have done so far almost entirely revolved around user interaction. In my personal project, I have explored ways someone can play a video game through hand motion. I was thinking about what would be the most fun and, more importantly, more intuitive way someone can control a character's camera. Of the components that were given, I saw the gyroscope as having the most potential to emulate natural user interaction.
 
 #
 
@@ -179,7 +179,7 @@ Perhaps the most intriguing work I have done so far almost entirely revolved aro
 
 #### Week 4
 
-In my personal project, I did a series of prototypes which were incrementally better compared to the previous version. Throught prototyping, I was a able to breakdown challenging problems into smaller, more managable problems. This has ultimetly allowed me to quickly add addtional functionalities as I had a clearer fision of the final product. Had this project continued, I believe that I would have been able to add more controls rapidly.
+In my personal project, I did a series of prototypes which were incrementally better compared to the previous version. Through prototyping, I was able to break down challenging problems into smaller, more manageable problems. This has ultimately allowed me to quickly add additional functionalities as I had a clearer vision of the final product. Had this project continued, I believe that I would have been able to add more controls rapidly.
 
 #
 
@@ -200,4 +200,4 @@ During the demo day, I prepared a presentation showcasing my idea, process and i
 
 #### Week 4
 
-Being a student from the software branch, my confort zone is software programming however, I always wanted to use my skills to build something fun and interactive such as controlling a drone with a VR headset but never knew how to link software and hardware together. The personal project has given me the opportunity to focus exactly on that. In the future, I would like to work more on projects like this.
+Being a student from the software branch, my comfort zone is software programming however, I always wanted to use my skills to build something fun and interactive such as controlling a drone with a VR headset but never knew how to link software and hardware together. The personal project has given me the opportunity to focus exactly on that. In the future, I would like to work more on projects like this.
