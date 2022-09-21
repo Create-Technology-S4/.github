@@ -61,7 +61,7 @@ _For the remainder of my time in this world, I truly hope to have some lasting, 
 
 This project, although relatively small, was our first project. It acted as an introductory project where we had complete freedom to choose whatever we want to work on, so long as it was creative technology-related. 
 
-#### Preliminary Steps
+#### Conceptualization
 
 When I was first introduced to what it means to be a creative technologist, one thing struck me in particular: user interactivity. Essentially, how will viwers/users interact with your work. With this in mind, I started brainstorming some ideas of what I could potentially do for my project.
 
@@ -73,9 +73,11 @@ There is a lot of different places I could combine software and hardware to make
 
 #### Prototypings
 
-To make my idea come to light, I had to break down my project into smaller steps since I have never worked on making 
+To make my idea come to light, I had to break down my project into smaller steps since I have never worked on such an idea before. Throughout this project, I came up with 3 different prototype where, to my suprise, we can clearly depict an evolution.
 
 ##### First Attempt
+
+My first attempt 
 
 <p align="center">
   <img src="docs/individual-project/first.gif" height="500" />
