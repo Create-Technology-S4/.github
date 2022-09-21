@@ -61,11 +61,15 @@ _For the remainder of my time in this world, I truly hope to have some lasting, 
 
 This project, although relatively small, was our first project. It acted as an introductory project where we had complete freedom to choose whatever we want to work on, so long as it was creative technology-related. 
 
+# 
+
 The source code of my project can be found here:
 
 <a href="https://github.com/Creative-Technology-S4/Individual-Project" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Technology-S4&repo=Individual-Project&include_all_commits=true&show_owner=true" /> 
 </a>
+
+#
 
 #### Conceptualization
 
@@ -80,6 +84,8 @@ There is a lot of different places I could combine software and hardware to make
 #### Prototypings
 
 To make my idea come to light, I had to break down my project into smaller steps since I have never worked on such an idea before. Throughout this project, I came up with 3 different prototype where, to my suprise, we can clearly depict an evolution.
+
+# 
 
 ##### First Attempt
 
@@ -96,6 +102,8 @@ This initial prototype, albeit very basic, took me the longest to achieve as it 
   <img src="docs/individual-project/first.gif" height="500" />
 </p>
 
+# 
+
 ##### Second Attempt
 
 My second prototype was all about increasing the response time between an input and an update. Altough the hardware setup remained identical, most of the changes were software-related. I figured if the arduino by itself is capable printing its value extremely fast on the serial monitor on my computer than the delay is most likely software-related. 
@@ -108,30 +116,82 @@ Ultimately, the only delay was that of the game's update frequency which is 20hz
   <img src="docs/individual-project/second.gif" height="500" />
 </p>
 
+# 
+
 ##### Final Attempt
+
+For my third and final attempt, I set out to actually implement the gyroscope to control the character's camera. This final prototype was relatively quick to implement as most the useful and time consuming work has been done by the prior prototypes. It was just a matter of listening for the right data and updating the camera's angle on every tick (20 times per second). 
+
+This resulted in the demo below.
 
 <p align="center">
   <img src="docs/individual-project/third.gif" height="500" />
 </p>
 
+# 
+
+### Reflection
+
+This project has been really fun to work on. Unlike most project I worked on in the past, the short time given has given me a new way of working in the sense that I had to focus on the stuff that mattered most. This project felt like it was more of a hackathon to qucikly get ideas into form. I wished I was given more time to work on this as I think I would have been able to polish my example way more and perhaps even intergrate a component to also trigger movement.
+
+I am happy with the outcome of the project. I can now interact with the game using a gyroscope and I think it is really cool.
+
+<br/>
+
 ### Duo Project
 
+> ⚠️ Not yet started
+
 ### Client Project
+
+> ⚠️ Not yet started
 
 # Learning Outcomes
 
 ### Vision
 
+> You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.
+
+#
+
+#### Week 4
+
 ### Innovative concept
+
+> You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.
+
+#
+
+#### Week 4
 
 ### Interactive user experience
 
+> You design an experimental interactive user experience that investigates a technology’s potential and its mutual effect on people.
+
+#
+
+#### Week 4
+
 ### Prototypes
+
+> You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.
+
+#
+
+#### Week 4
 
 ### Present
 
+> You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.
+
+#
+
+#### Week 4
+
 ### Personal growth
 
-# Reflection
+> You articulate your professional ambitions and focus and demonstrate your efforts and growth within the roles you fulfill in your projects.
 
-### First Reflection
+#
+
+#### Week 4
