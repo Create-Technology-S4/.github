@@ -61,6 +61,12 @@ _For the remainder of my time in this world, I truly hope to have some lasting, 
 
 This project, although relatively small, was our first project. It acted as an introductory project where we had complete freedom to choose whatever we want to work on, so long as it was creative technology-related. 
 
+The source code of my project can be found here:
+
+<a href="https://github.com/Creative-Technology-S4/Individual-Project" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Technology-S4&repo=Individual-Project&include_all_commits=true&show_owner=true" /> 
+</a>
+
 #### Conceptualization
 
 When I was first introduced to what it means to be a creative technologist, one thing struck me in particular: user interactivity. Essentially, how will viwers/users interact with your work. With this in mind, I started brainstorming some ideas of what I could potentially do for my project.
@@ -83,7 +89,7 @@ Beyond that, this first attempt was all about trying establishing a communicatio
 
 As a proof of concept, I decided to use a potentiometer to simply change the time of day in the game's world as shown in the first image below (left).
 
-This initial prototype, altough very basic, took me the longest to achieve as it was all about being able to send data from an analog input into the game. The second image (right) shows the first result of my work. As can be seen, the delay between the input and the ingame time being updated is _very_ large. There is Approximately 9 seconds between an input and an update which is nowhere near as fast as it needs to be for a good user interaction. So I set out to make my second prototype.
+This initial prototype, albeit very basic, took me the longest to achieve as it was all about being able to send data from an analog input into the game. The second image (right) shows the first result of my work. As can be seen, the delay between the input and the ingame time being updated is _very_ large. There is Approximately 9 seconds between an input and an update which is nowhere near as fast as it needs to be for a good user interaction. So I set out to make my second prototype.
 
 <p align="center">
   <img src="docs/individual-project/setup.jpg" height="500" />
@@ -91,6 +97,12 @@ This initial prototype, altough very basic, took me the longest to achieve as it
 </p>
 
 ##### Second Attempt
+
+My second prototype was all about increasing the response time between an input and an update. Altough the hardware setup remained identical, most of the changes were software-related. I figured if the arduino by itself is capable printing its value extremely fast on the serial monitor on my computer than the delay is most likely software-related. 
+
+After some _long_ nights (which eventually turned into short mornings) I have completely changed the way data is received by the game and was ultimately able to achieve a response time that had no noticable delays. In addtion, now instead of sending primitive types as strings, I can send data in JSON format (with [this class](https://github.com/Creative-Technology-S4/Individual-Project/blob/master/src/main/java/me/noahgreff/s4ct/SerialPortJsonReader.java) in a [neat way](https://github.com/Creative-Technology-S4/Individual-Project/blob/master/src/main/java/me/noahgreff/s4ct/Main.java#L30)) which grealty increases the flexibility I have for adding more components in the future (such as the gyroscope). 
+
+Ultimately, the only delay was that of the game's update frequency which is 20hz. For user interactivity, this was fine. The results are shown below.
 
 <p align="center">
   <img src="docs/individual-project/second.gif" height="500" />
@@ -101,12 +113,6 @@ This initial prototype, altough very basic, took me the longest to achieve as it
 <p align="center">
   <img src="docs/individual-project/third.gif" height="500" />
 </p>
-
-The source code of my project can be found here:
-
-<a href="https://github.com/Creative-Technology-S4/Individual-Project" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Technology-S4&repo=Individual-Project&include_all_commits=true&show_owner=true" /> 
-</a>
 
 ### Duo Project
 
