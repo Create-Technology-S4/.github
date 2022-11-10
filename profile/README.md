@@ -133,9 +133,47 @@ I am happy with the outcome of the project. I can now interact with the game usi
 
 ## Duo Project
 
-> 🚧 [Under Construction] 🚧
+> Name:     **Suicide Prevention on Railtracks in the NL**
+
+> Duration: **6 Weeks**
+
+This is our second project which lasted three times longer than the previous project and consequently was three times the fun. One of the major difference compared to the last project is that this is a group project and therefore requires a different way of working.
+
+#
+
+The source code of my part of the project can be found here:
+
+<a href="https://github.com/Creative-Technology-S4/Individual-Project" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Technology-S4&repo=Duo-Project&include_all_commits=true&show_owner=true" /> 
+</a>
+
+#
 
 <br/>
+
+### Conceptualization
+
+For this project, as a team, we decided to focus our attention towards making an impact. Specifically, exploring the ways in which NS and ProRails can utilise technology to further reduce the amount of suicides on rail tracks. From that, our main focus was: 
+
+**How can technology be used to prevent suicides on rails in the Netherlands**
+
+We have explored different ideas that could help us towards achieving our goal; both using software and hardware.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Client Project
 
