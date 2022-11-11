@@ -137,7 +137,11 @@ I am happy with the outcome of the project. I can now interact with the game usi
 
 > Duration: **6 Weeks**
 
+> Members:  **Andrija, [Giovanna](https://i464249.hera.fhict.nl/#portfolio3), Noah (myself)**
+
 This is our second project which lasted three times longer than the previous project and consequently was three times the fun. One of the major difference compared to the last project is that this is a group project and therefore requires a different way of working.
+
+Altough called the Duo Project, our group was composed of three members due to our semster group size being odd in numbers; with each playing a specific role.
 
 #
 
@@ -149,13 +153,15 @@ The source code of my part of the project can be found here:
 
 #
 
-<br/>
+### Trigger
 
-### Conceptualization
+Every day, thousands of people in the Netherlands use public transport as means of going to and from places. One of those means of transportation, railway, plays a particularly crucial role in that it can transport people (and cargo) across the country in a very fast and (usually) reliable way. Its speed is its strength, altough sometimes, poor souls see it as an effetive way to quickly end their lives.
+
+After a period of researh, numbers indicate that over the last decade, the number of people commiting suicide by trains steadly increased despite NS and ProRail efforts. Hundreds of people lose their lives accross the conutry that way which, apart from the tremendous cost on every incident on handling the situation, it can have devasting and lasting effects on people invloved.
 
 For this project, as a team, we decided to focus our attention towards making an impact. Specifically, exploring the ways in which NS and ProRails can utilise technology to further reduce the amount of suicides on rail tracks. From that, our main focus was: 
 
-**How can technology be used to prevent suicides on rails in the Netherlands**
+**How can technology be used to prevent suicides on rails in the Netherlands?**
 
 We have explored different ideas that could help us towards achieving our goal; both using software and hardware.
 
