@@ -137,11 +137,13 @@ I am happy with the outcome of the project. I can now interact with the game usi
 
 > Duration: **6 Weeks**
 
-> Members:  **Andrija, [Giovanna](https://i464249.hera.fhict.nl/#portfolio3), Noah (myself)**
+> Members:  **Andrija, [Giovanna](https://i464249.hera.fhict.nl), Noah (myself)**
 
 This is our second project which lasted three times longer than the previous project and consequently was three times the fun. One of the major difference compared to the last project is that this is a group project and therefore requires a different way of working.
 
 Altough called the Duo Project, our group was composed of three members due to our semster group size being odd in numbers.
+
+In this section, I initially talk about the work done as a group and later talk about my contribution exclusively.
 
 #
 
@@ -181,7 +183,12 @@ Our second idea revolved more around hardware and working towards a product solu
 
 We concluded that added sensors into the equation could be an effective way to be able to also detect people in bushes and such.
 
-The basic idea is to make the train stop when a sensor ahead of the train is triggered, as shown in our **first, lofi prototype** below:
+The basic idea is to make the train stop when a sensor ahead of the train is triggered. (Moreover in the next section)
+
+### Prototyping
+
+#### Prototype 1
+To have a better understanding of how and what we were going to work on, we made a very lofi-prototype does not include anything technology-related.
 
 During normal circonstances, no sensors triggered, train moves along:
 
@@ -195,29 +202,83 @@ During abnormal circonstances, a sensor is triggered, train stops before the sen
   <img src="docs/duo-project/danger.gif" height="500" />
 </p>
 
+#### Prototype 2
+
+As a second prototype, we have simply translated our paper model into software:
+
+<p align="center">
+  <img src="docs/duo-project/prototype_2.gif" height="500" />
+</p>
+
 #
 > **Disclaimer: Beyond this point, I talk mostly about my contribution to the project.**
 
-### Prototyping
-
-One of our very first prototype is shown above which, as can be seen, is very very basic and does not include anything technology-related.
-
-To actually transform our first prototype into a working demo, I utilised my software skills to break down our model into different components. This resulted in this system diagram below:
+To actually transform our first prototypes into a working demo, I utilised my software skills to break down our model into different components. This resulted in this final system diagram below:
 
 <p align="center">
   <img src="docs/duo-project/system_diagram.png" height="500" />
 </p>
 
-Through this diagram, I have concluded that there are three major components to work: 
+As shown on the diagram, I have concluded that there are three major components to work: 
 
 * The sensors
 * The RC car (our train)
 * The desktop App
 
+This components have been worked on for prototype 3 and 4.
 
+#### Prototype 3
 
+For the next prototype, I worked on two of the three major components. Over a period of two weeks I worked on was the desktop app (a.k.a. Mission Control) and on the sensors.
 
+This app acts the brain of the entire system. This desktop app would typically be used by people overlooking the entire train opperation remotely. Essentially the desktop app (mission control) ties everything together by processing sensor data and dictates to the RC car (the train conductor) whether to stop if a sensor if triggered. 
 
+To make the app, I made a JAVA application and simply reused and improved the code from my individual project to have sereal communication with a micro controller.
+
+Once that was done, I started work on the sensors that would be placed along the tracks to detect people. For the purposes of this demo, we have settled on using Ultrasound sensors.
+
+For more technical details, I have the code for the app [here](https://github.com/Creative-Technology-S4/Duo-Project/blob/master/src/main/java/us/duoproject/Main.java) and the code for the ultrasound sensors [here](https://github.com/Creative-Technology-S4/Duo-Project/blob/master/ino/beacon/beacon.ino).
+
+When tying those two components together, we get this rough demo that showcases which sensor is triggered where on the screen in real time.
+
+<p align="center">
+  <img src="docs/duo-project/sensor-to-app.gif" height="500" />
+</p>
+
+#### Prototype 4 (prototype 3 revisited)
+
+For this final prototype, I worked on the final component, the RC car. Specifically, how can I send data to it to make it move and stop on demand. This phase lasted for quite some times because it was quite challenging to troubleshoot the bluetooth module and send data from the desktop app to the RC car.
+
+My first attempt was to simply connect any bluetooth device and be able to send data to make it move/stop.
+
+<p align="center">
+  <img src="docs/duo-project/bluetooth-to-rc.gif" height="500" />
+</p>
+
+After a lot of time, (I will spare the details), I was able to make the desktop app send data to the RC car via bluetooth and make it move automatically (left). This in combination with the previous work on done with the sensors, I was finally able to controll the RC car based on whether a sensor is triggered (right).
+
+<p align="center">
+  <img src="docs/duo-project/app-to-rc.gif" height="500" />
+  <img src="docs/duo-project/sensor-to-rc.gif" height="500" />
+</p>
+
+### Expo
+
+When D-day came, we were able to demo our work in details with a fully working prototype. We showcased all our prototypes and made a presentation to talk about the process as well as impact. As soon as the expo started, many people came to see our work and seemed to be intrigued by our setup. People were engaged and could interact with our product in a way that is natural.
+
+<p align="center">
+  <img src="docs/duo-project/expo_1.jpg" height="500" />
+</p>
+
+### Reflection
+
+This project has been really fun to work one. Giovanna was very involved with the project and I beleive that we were able to go from a very basic concept to a full fledged working prototype exactly as described initially. As a software student, I was able to really bring forth my expertise I felt like I played an integral part of the project. Towards the end, I was able explore some concepts with Andrija too but ultimately settled with our initial ideas.
+
+As a group, we have decided to provide feedback for each other too:
+
+<p align="center">
+  <img src="docs/duo-project/feedback.png" height="500" />
+</p>
 
 ## Client Project
 
@@ -243,7 +304,7 @@ When thinking about the relationship between humans and technology, the only pra
 
 #### Week 4
 
-For my personal project, I have spent some time investigating possible ways in which someone can interact with computers without a mouse and keyboard. Initially, I wanted to use a camera and detect the direction of the user and map this to the character's camera however, if the user wanted to look up in the game they would have to look up themselves which would make looking on the screen difficult. A better way was to use a gyroscope that could be held and used as a joystick.  
+For my personal project, I have spent some time investigating possible ways in which someone can interact with computers without a mouse and keyboard. Initially, I wanted to use a camera and detect the direction of the user and map this to the character's camera however, if the user wanted to look up in the game they would have to look up themselves which would make looking on the screen difficult. A better way was to use a gyroscope that could be held and used as a joystick.
 
 #
 
