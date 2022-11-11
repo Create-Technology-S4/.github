@@ -72,7 +72,7 @@ The source code of my project can be found here:
 
 #
 
-### Conceptualization
+### Ideation
 
 When I was first introduced to what it means to be a creative technologist, one thing struck me in particular: user interactivity. Essentially, how will viewers/users interact with your work. With this in mind, I started brainstorming some ideas of what I could potentially do for my project.
 
@@ -157,36 +157,62 @@ The source code of my part of the project can be found here:
 
 Every day, thousands of people in the Netherlands use public transport as means of going to and from places. One of those means of transportation, railway, plays a particularly crucial role in that it can transport people (and cargo) across the country in a very fast and (usually) reliable way. Its speed is its strength, altough sometimes, poor souls see it as an effetive way to quickly end their lives.
 
-After doing extensive [researh](docs/duo-project/ResearchDocument_TrainProject.pdf), numbers indicate that over the last decade, the number of people commiting suicide by trains steadly increased despite NS and ProRail efforts. Hundreds of people lose their lives accross the conutry that way which, apart from the tremendous cost on every incident on handling the situation, it can have devasting and lasting effects on people invloved.
+After doing extensive [researh](docs/duo-project/research_doc.pdf), numbers indicate that over the last decade, the number of people commiting suicide by trains steadly increased despite NS and ProRail efforts. Hundreds of people lose their lives accross the conutry that way which, apart from the tremendous cost on every incident on handling the situation, it can have devasting and lasting effects on people invloved.
 
 For this project, as a team, we decided to focus our attention towards making an impact. Specifically, exploring the ways in which NS and ProRails can utilise technology to further reduce the amount of suicides on rail tracks. From that, our main research question was: 
 
 **How can technology be used to prevent suicides on rails in the Netherlands?**
 
-We have explored different ideas that could help us towards achieving our goal; both using software and hardware.
+We have explored different ideas that could help us towards achieving our goal; both using software and hardware. (Moreover in the next section)
 
-### Conceptualization
+### Ideation
 
 #### Idea N.1
 As a group, we have experimented with different ideas to tackle our research question. Since our domain revolved around technology and software, we were thinking whether an app could help reduce the amount of yearly suicides on tracks. we came up with the aptly named mobile app, *HelpMate*, thinking that the ultimate reason why *people* commit suicide is because of *people* and that with technology, we can connect people in need with people who are able to help.
 
-[IMAGE]
+<p align="center">
+  <img src="docs/duo-project/helpmate.gif" height="500" />
+</p>
+
 
 #### Idea N.2
 
-Our second idea revolved more around hardware and working towards a product solution that NS and ProRail could theoretically fund to reduce incidents. After an interview (available in our [researh doc](docs/duo-project/ResearchDocument_TrainProject.pdf)), we discovered that incidents tend to happen in more secluded locations; where people are scarce and where cameras are ineffective. 
+Our second idea revolved more around hardware and working towards a product solution that NS and ProRail could theoretically fund to reduce incidents. After an interview (available in our [researh doc](docs/duo-project/research_doc.pdf)), we discovered that incidents tend to happen in more secluded locations; where people are scarce and where cameras are ineffective. 
 
+We concluded that added sensors into the equation could be an effective way to be able to also detect people in bushes and such.
+
+The basic idea is to make the train stop when a sensor ahead of the train is triggered, as shown in our **first, lofi prototype** below:
+
+During normal circonstances, no sensors triggered, train moves along:
 
 <p align="center">
-  <img src="docs/duo-project/second.gif" height="500" />
+  <img src="docs/duo-project/normal.gif" height="500" />
 </p>
 
+During abnormal circonstances, a sensor is triggered, train stops before the sensor:
 
 <p align="center">
-  <img src="docs/duo-project/second.gif" height="500" />
+  <img src="docs/duo-project/danger.gif" height="500" />
 </p>
 
+#
+> **Disclaimer: Beyond this point, I talk mostly about my contribution to the project.**
 
+### Prototyping
+
+One of our very first prototype is shown above which, as can be seen, is very very basic and does not include anything technology-related.
+
+To actually transform our first prototype into a working demo, I utilised my software skills to break down our model into different components. This resulted in this system diagram below:
+
+<p align="center">
+  <img src="docs/duo-project/system_diagram.png" height="500" />
+</p>
+
+Through this diagram, I have concluded that there are three major components to work: 
+
+* The sensors
+* The RC car (our train)
+* The desktop App
 
 
 
