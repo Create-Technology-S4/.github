@@ -133,7 +133,7 @@ I am happy with the outcome of the project. I can now interact with the game usi
 
 ## Duo Project
 
-> Name:     **Suicide Prevention on Railtracks in the NL**
+> Name:     **Suicide Prevention on railtracks in the NL**
 
 > Duration: **6 Weeks**
 
@@ -141,7 +141,7 @@ I am happy with the outcome of the project. I can now interact with the game usi
 
 This is our second project which lasted three times longer than the previous project and consequently was three times the fun. One of the major difference compared to the last project is that this is a group project and therefore requires a different way of working.
 
-Altough called the Duo Project, our group was composed of three members due to our semster group size being odd in numbers; with each playing a specific role.
+Altough called the Duo Project, our group was composed of three members due to our semster group size being odd in numbers.
 
 #
 
@@ -157,22 +157,34 @@ The source code of my part of the project can be found here:
 
 Every day, thousands of people in the Netherlands use public transport as means of going to and from places. One of those means of transportation, railway, plays a particularly crucial role in that it can transport people (and cargo) across the country in a very fast and (usually) reliable way. Its speed is its strength, altough sometimes, poor souls see it as an effetive way to quickly end their lives.
 
-After a period of researh, numbers indicate that over the last decade, the number of people commiting suicide by trains steadly increased despite NS and ProRail efforts. Hundreds of people lose their lives accross the conutry that way which, apart from the tremendous cost on every incident on handling the situation, it can have devasting and lasting effects on people invloved.
+After doing extensive [researh](docs/duo-project/ResearchDocument_TrainProject.pdf), numbers indicate that over the last decade, the number of people commiting suicide by trains steadly increased despite NS and ProRail efforts. Hundreds of people lose their lives accross the conutry that way which, apart from the tremendous cost on every incident on handling the situation, it can have devasting and lasting effects on people invloved.
 
-For this project, as a team, we decided to focus our attention towards making an impact. Specifically, exploring the ways in which NS and ProRails can utilise technology to further reduce the amount of suicides on rail tracks. From that, our main focus was: 
+For this project, as a team, we decided to focus our attention towards making an impact. Specifically, exploring the ways in which NS and ProRails can utilise technology to further reduce the amount of suicides on rail tracks. From that, our main research question was: 
 
 **How can technology be used to prevent suicides on rails in the Netherlands?**
 
 We have explored different ideas that could help us towards achieving our goal; both using software and hardware.
 
+### Conceptualization
+
+#### Idea N.1
+As a group, we have experimented with different ideas to tackle our research question. Since our domain revolved around technology and software, we were thinking whether an app could help reduce the amount of yearly suicides on tracks. we came up with the aptly named mobile app, *HelpMate*, thinking that the ultimate reason why *people* commit suicide is because of *people* and that with technology, we can connect people in need with people who are able to help.
+
+[IMAGE]
+
+#### Idea N.2
+
+Our second idea revolved more around hardware and working towards a product solution that NS and ProRail could theoretically fund to reduce incidents. After an interview (available in our [researh doc](docs/duo-project/ResearchDocument_TrainProject.pdf)), we discovered that incidents tend to happen in more secluded locations; where people are scarce and where cameras are ineffective. 
 
 
+<p align="center">
+  <img src="docs/duo-project/second.gif" height="500" />
+</p>
 
 
-
-
-
-
+<p align="center">
+  <img src="docs/duo-project/second.gif" height="500" />
+</p>
 
 
 
