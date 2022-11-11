@@ -342,7 +342,9 @@ In my personal project, I did a series of prototypes which were incrementally be
 
 #### Week 9
 
-// iteration
+The Duo Project was all about figuring things out as a group. I had some ideas on how to tackle our research question and so did the other team members. The key was to combine our thoughts and skills to prototype our ideas. Throughout our project, we have made a series of prototypes; ranging from a paper model to a working system able to stop a moving vehicle to avoid a collision with an object. Each team member focused on their strength in particular which reduced time between prototype iterations.
+
+Our prototypes were dictated based on feedback given. Everytime we showcased our prototype, we received valuable insight from external sources which I believe has had tremendous impact towards our final prototype.
 
 #
 
@@ -356,7 +358,9 @@ During the demo day, I prepared a presentation showcasing my idea, process and i
 
 #### Week 9
 
-// expo
+For the duo project, the set up of our booth played an essential role in conveying our final product as well as the process. As shown in the image in the Duo Project, under Expo, we have displayed our initial prototypes on the left and presented our final prototype in the center. To accompany our prototypes, we made a presentation to talk about how this product connects to the real world, our process and the impact it might have. 
+
+When the expo started, we have immediately attracted people's attention. People were involved in experiencing our product. They could interact with the sensors and see for themselves the RC car automatically stop to avoid collision with their hands. They were genuinely intrigued on how everything tied in together.
 
 #
 
