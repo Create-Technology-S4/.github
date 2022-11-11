@@ -274,6 +274,8 @@ When D-day came, we were able to demo our work in details with a fully working p
 
 This project has been really fun to work one. Giovanna was very involved with the project and I beleive that we were able to go from a very basic concept to a full fledged working prototype exactly as described initially. As a software student, I was able to really bring forth my expertise I felt like I played an integral part of the project. Towards the end, I was able explore some concepts with Andrija too but ultimately settled with our initial ideas.
 
+From the first feedback session I had for my individual project, I was told that I was able to utilise my software abilites to find good solution with technology but that my solution did not revolve as much around making impact as it should. In this project, I beleive that I was able to overcome this issue and work more towards thinking about technology as measn to reduce suicide rates on railtracks.
+
 As a group, we have decided to provide feedback for each other too:
 
 <p align="center">
@@ -296,6 +298,10 @@ As a group, we have decided to provide feedback for each other too:
 
 When thinking about the relationship between humans and technology, the only practical way someone can interact with a computer is via the typical mouse and keyboard. I was thinking whether this would always be the case. What if we removed the mouse or keyboard? What would be another peripheral that can be used instead, a camera? I wanted to explore this a bit more in my personal project and built an analog controller that (partially) removes the need to use a mouse to play in the game Minecraft.
 
+#### Week 9
+
+// impact
+
 #
 
 ### Innovative concept
@@ -305,6 +311,10 @@ When thinking about the relationship between humans and technology, the only pra
 #### Week 4
 
 For my personal project, I have spent some time investigating possible ways in which someone can interact with computers without a mouse and keyboard. Initially, I wanted to use a camera and detect the direction of the user and map this to the character's camera however, if the user wanted to look up in the game they would have to look up themselves which would make looking on the screen difficult. A better way was to use a gyroscope that could be held and used as a joystick.
+
+#### Week 9
+
+// concepting
 
 #
 
@@ -316,6 +326,10 @@ For my personal project, I have spent some time investigating possible ways in w
 
 Perhaps the most intriguing work I have done so far almost entirely revolved around user interaction. In my personal project, I have explored ways someone can play a video game through hand motion. I was thinking about what would be the most fun and, more importantly, more intuitive way someone can control a character's camera. Of the components that were given, I saw the gyroscope as having the most potential to emulate natural user interaction.
 
+#### Week 9
+
+// sensors
+
 #
 
 ### Prototypes
@@ -326,16 +340,23 @@ Perhaps the most intriguing work I have done so far almost entirely revolved aro
 
 In my personal project, I did a series of prototypes which were incrementally better compared to the previous version. Through prototyping, I was able to break down challenging problems into smaller, more manageable problems. This has ultimately allowed me to quickly add additional functionalities as I had a clearer vision of the final product. Had this project continued, I believe that I would have been able to add more controls rapidly.
 
+#### Week 9
+
+// iteration
+
 #
 
 ### Present
 
 > You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.
 
-
 #### Week 4
 
 During the demo day, I prepared a presentation showcasing my idea, process and impact of my product. However, I believed that the result of my project was more than just something to present via a presentation and I prepared the game along with the gyroscope for people to use experience the controls for themselves. This made my demonstration more interactive and engaging to people.
+
+#### Week 9
+
+// expo
 
 #
 
@@ -346,3 +367,7 @@ During the demo day, I prepared a presentation showcasing my idea, process and i
 #### Week 4
 
 Being a student from the software branch, my comfort zone is software programming however, I always wanted to use my skills to build something fun and interactive such as controlling a drone with a VR headset but never knew how to link software and hardware together. The personal project has given me the opportunity to focus exactly on that. In the future, I would like to work more on projects like this.
+
+#### Week 9
+
+// dedication
