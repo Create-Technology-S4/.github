@@ -300,7 +300,7 @@ When thinking about the relationship between humans and technology, the only pra
 
 #### Week 9
 
-// impact
+In the Duo Project, we started by identifing a problem: cases of train-related suicide has not changed over the past decade in the Netherlands. We made some research into finding out what NS and ProRail already had in place to mitigate such incidents and discovered that more could be done to further reduce case counts. With the use of existing technology, I have discussed with my team mates how we could develop an app to use along with some sensors to control the speed of trains. 
 
 #
 
@@ -314,7 +314,9 @@ For my personal project, I have spent some time investigating possible ways in w
 
 #### Week 9
 
-// concepting
+In the Duo Project, as a team, we experimented with various ideas on who we might address problem of suicide on rails. We initially started working on the idea that a mobile app can connect users to people dangerously close to train tracks. After some mockups, we concluded that it might be as effective as a mechanism that slows trains down when triggered by sensors.
+
+This is when we spent our full attention towards what we could do with the technology that we have available. For example, when deciding on what type of sensor to use, we were thinking about heat-sensing devices and other types of sensors but ultimately concluded that, for the purposes of our solution, ultrasound sensors was the ideal choice.
 
 #
 
@@ -328,7 +330,7 @@ Perhaps the most intriguing work I have done so far almost entirely revolved aro
 
 #### Week 9
 
-// sensors
+In my Duo Project, the final prototype had key interactive elements; the ultrasound sensors. The fundamental goal behind our solution was to detect the presence of entities in a particular location an act depending on whether a sensor has been triggered. We have experimented with other sensors but decided to use ultrasound sensors as they have shown to be the least time consuming component to setup in large quantities, which in turn allowed use to focus our attentions on other part of the project more such as the Desktop App's UI. Through user interactions, people were able to see in real time when a sensor is triggered onscreen.
 
 #
 
@@ -374,4 +376,4 @@ Being a student from the software branch, my comfort zone is software programmin
 
 #### Week 9
 
-// dedication
+I have put forth my technical skills in the Duo Project to communicate how we might address our problem from both a software and hardware point of view. I beleive that, with the input of my team mates, I was able to produce results that pushed our prototypes forward. I was invloved in almost all of the programming that was done as well as did some pair-programming with Andrija to further explore possibilites.
