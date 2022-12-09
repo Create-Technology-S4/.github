@@ -68,7 +68,7 @@ This project, although relatively small, was our first project. It acted as an i
 
 The source code of my project can be found here:
 
-<a href="https://github.com/Creative-Technology-S4/Individual-Project" >
+<a href="https://github.com/Creative-Technology-S4/Individual-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Technology-S4&repo=Individual-Project&include_all_commits=true&show_owner=true" /> 
 </a>
 
@@ -151,7 +151,7 @@ In this section, I initially talk about the work done as a group and later talk 
 
 The source code of my part of the project can be found here:
 
-<a href="https://github.com/Creative-Technology-S4/Individual-Project" >
+<a href="https://github.com/Creative-Technology-S4/Individual-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Technology-S4&repo=Duo-Project&include_all_commits=true&show_owner=true" /> 
 </a>
 
@@ -284,9 +284,35 @@ As a group, we have decided to provide feedback for each other too:
   <img src="docs/duo-project/feedback.png" height="500" />
 </p>
 
+<br/>
+
 ## Client Project
 
 > 🚧 [Under Construction] 🚧
+
+> Name:     **Generative AI @ Greenhouse**
+
+> Duration: **9 Weeks**
+
+> Members:  **[Dion](), [Giovanna](https://i464249.hera.fhict.nl), [Coen](), [Stefan](), [Kaloyan](), Noah (myself)**
+
+This project was our final and, arguably, the most important project of the semester. Being an upscaled version of the previous project, we were a group of 6 and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
+
+Due to the abstract nature of the project, our approach to tackling how generative AI can bring value to Greenhouse was heavily focused around research. Specifically, the effects of AI generated content on people's creativity and emotions. 
+
+In general, I will talk about the work we did as a group and mention explicitly my contributions to the project from time to time.
+
+#
+
+The source code of my part of the project can be found here:
+
+<a href="https://github.com/Creative-Technology-S4/Client-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Technology-S4&repo=Client-Project&include_all_commits=true&show_owner=true" /> 
+</a>
+
+#
+
+### Trigger
 
 <br/>
 
@@ -304,6 +330,10 @@ When thinking about the relationship between humans and technology, the only pra
 
 In the Duo Project, we started by identifying a problem: cases of train-related suicide has not changed over the past decade in the Netherlands. We made some research into finding out what NS and ProRail already had in place to mitigate such incidents and discovered that more could be done to further reduce case counts. With the use of existing technology, I have discussed with my teammates how we could develop an app to use along with some sensors to control the speed of trains.
 
+#### Week 15
+
+===
+
 #
 
 ### Innovative concept
@@ -320,6 +350,10 @@ In the Duo Project, as a team, we experimented with various ideas on whom we mig
 
 This is when we spent our full attention towards what we could do with the technology that we have available. For example, when deciding on what type of sensor to use, we were thinking about heat-sensing devices and other types of sensors but ultimately concluded that, for the purposes of our solution, ultrasound sensors was the ideal choice.
 
+#### Week 15
+
+===
+
 #
 
 ### Interactive user experience
@@ -333,6 +367,10 @@ Perhaps the most intriguing work I have done so far almost entirely revolved aro
 #### Week 9
 
 In my Duo Project, the final prototype had key interactive elements; the ultrasound sensors. The fundamental goal behind our solution was to detect the presence of entities in a particular location an act depending on whether a sensor has been triggered. We have experimented with other sensors but decided to use ultrasound sensors as they have shown to be the least time-consuming component to set up in large quantities, which in turn allowed use to focus our attentions on other part of the project more such as the Desktop App's UI. Through user interactions, people were able to see in real time when a sensor is triggered onscreen.
+
+#### Week 15
+
+===
 
 #
 
@@ -350,6 +388,10 @@ The Duo Project was all about figuring things out as a group. I had some ideas o
 
 Our prototypes were dictated based on feedback given. Everytime we showcased our prototype, we received valuable insight from external sources which I believe has had tremendous impact towards our final prototype.
 
+#### Week 15
+
+===
+
 #
 
 ### Present
@@ -366,6 +408,10 @@ For the duo project, the set-up of our booth played an essential role in conveyi
 
 When the expo started, we have immediately attracted people's attention. People were involved in experiencing our product. They could interact with the sensors and see for themselves the RC car automatically stop to avoid collision with their hands. They were genuinely intrigued on how everything tied in together.
 
+#### Week 15
+
+===
+
 #
 
 ### Personal growth
@@ -379,3 +425,9 @@ Being a student from the software branch, my comfort zone is software programmin
 #### Week 9
 
 I have put forth my technical skills in the Duo Project to communicate how we might address our problem from both a software and hardware point of view. I believe that, with the input of my teammates, I was able to produce results that pushed our prototypes forward. I was involved in almost all the programming that was done as well as did some pair-programming with Andrija to further explore possibilities.
+
+#### Week 15
+
+===
+
+#
