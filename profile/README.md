@@ -296,7 +296,7 @@ As a group, we have decided to provide feedback for each other too:
 
 > Members:  **[Dion](), [Giovanna](https://i464249.hera.fhict.nl), [Coen](), [Stefan](), [Kaloyan](), Noah (myself)**
 
-This project was our final and, arguably, the most important project of the semester. Being an upscaled version of the previous project, we were a group of 6 and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
+This project was our final and, arguably, the most important project of the semester. Being an upscaled version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
 
 Due to the abstract nature of the project, our approach to tackling how generative AI can bring value to Greenhouse was heavily focused around research. Specifically, the effects of AI generated content on people's creativity and emotions. 
 
