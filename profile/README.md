@@ -294,7 +294,7 @@ As a group, we have decided to provide feedback for each other too:
 
 > Duration: **9 Weeks**
 
-> Members:  **[Dion](), [Giovanna](https://i464249.hera.fhict.nl), [Coen](), [Stefan](), [Kaloyan](), Noah (myself)**
+> Members:  **[Dion](), [Giovanna](https://i464249.hera.fhict.nl), [Coen](https://portfoliosemester4.vercel.app/), [Stefan](), [Kaloyan](), Noah (myself)**
 
 This project was our final and, arguably, the most important project of the semester. Being an upscaled version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
 
@@ -322,15 +322,15 @@ The source code of my part of the project can be found here:
 
 > You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.
 
-#### Week 4
+#### Week 4 (Individual Project)
 
 When thinking about the relationship between humans and technology, the only practical way someone can interact with a computer is via the typical mouse and keyboard. I was thinking whether this would always be the case. What if we removed the mouse or keyboard? What would be another peripheral that can be used instead, a camera? I wanted to explore this a bit more in my personal project and built an analog controller that (partially) removes the need to use a mouse to play in the game Minecraft.
 
-#### Week 9
+#### Week 9 (Duo Project)
 
 In the Duo Project, we started by identifying a problem: cases of train-related suicide has not changed over the past decade in the Netherlands. We made some research into finding out what NS and ProRail already had in place to mitigate such incidents and discovered that more could be done to further reduce case counts. With the use of existing technology, I have discussed with my teammates how we could develop an app to use along with some sensors to control the speed of trains.
 
-#### Week 15
+#### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
 
@@ -340,17 +340,17 @@ In the Duo Project, we started by identifying a problem: cases of train-related 
 
 > You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.
 
-#### Week 4
+#### Week 4 (Individual Project)
 
 For my personal project, I have spent some time investigating possible ways in which someone can interact with computers without a mouse and keyboard. Initially, I wanted to use a camera and detect the direction of the user and map this to the character's camera however, if the user wanted to look up in the game they would have to look up themselves which would make looking on the screen difficult. A better way was to use a gyroscope that could be held and used as a joystick.
 
-#### Week 9
+#### Week 9 (Duo Project)
 
 In the Duo Project, as a team, we experimented with various ideas on whom we might address problem of suicide on rails. We initially started working on the idea that a mobile app can connect users to people dangerously close to train tracks. After some mockups, we concluded that it might be as effective as a mechanism that slows trains down when triggered by sensors.
 
 This is when we spent our full attention towards what we could do with the technology that we have available. For example, when deciding on what type of sensor to use, we were thinking about heat-sensing devices and other types of sensors but ultimately concluded that, for the purposes of our solution, ultrasound sensors was the ideal choice.
 
-#### Week 15
+#### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
 
@@ -360,15 +360,15 @@ This is when we spent our full attention towards what we could do with the techn
 
 > You design an experimental interactive user experience that investigates a technology’s potential and its mutual effect on people.
 
-#### Week 4
+#### Week 4 (Individual Project)
 
 Perhaps the most intriguing work I have done so far almost entirely revolved around user interaction. In my personal project, I have explored ways someone can play a video game through hand motion. I was thinking about what would be the most fun and, more importantly, more intuitive way someone can control a character's camera. Of the components that were given, I saw the gyroscope as having the most potential to emulate natural user interaction.
 
-#### Week 9
+#### Week 9 (Duo Project)
 
 In my Duo Project, the final prototype had key interactive elements; the ultrasound sensors. The fundamental goal behind our solution was to detect the presence of entities in a particular location an act depending on whether a sensor has been triggered. We have experimented with other sensors but decided to use ultrasound sensors as they have shown to be the least time-consuming component to set up in large quantities, which in turn allowed use to focus our attentions on other part of the project more such as the Desktop App's UI. Through user interactions, people were able to see in real time when a sensor is triggered onscreen.
 
-#### Week 15
+#### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
 
@@ -378,17 +378,17 @@ In my Duo Project, the final prototype had key interactive elements; the ultraso
 
 > You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.
 
-#### Week 4
+#### Week 4 (Individual Project)
 
 In my personal project, I did a series of prototypes which were incrementally better compared to the previous version. Through prototyping, I was able to break down challenging problems into smaller, more manageable problems. This has ultimately allowed me to quickly add additional functionalities as I had a clearer vision of the final product. Had this project continued, I believe that I would have been able to add more controls rapidly.
 
-#### Week 9
+#### Week 9 (Duo Project)
 
 The Duo Project was all about figuring things out as a group. I had some ideas on how to tackle our research question and so did the other team members. The key was to combine our thoughts and skills to prototype our ideas. Throughout our project, we have made a series of prototypes; ranging from a paper model to a working system able to stop a moving vehicle to avoid a collision with an object. Each team member focused on their strength in particular which reduced time between prototype iterations.
 
 Our prototypes were dictated based on feedback given. Everytime we showcased our prototype, we received valuable insight from external sources which I believe has had tremendous impact towards our final prototype.
 
-#### Week 15
+#### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
 
@@ -398,17 +398,17 @@ Our prototypes were dictated based on feedback given. Everytime we showcased our
 
 > You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.
 
-#### Week 4
+#### Week 4 (Individual Project)
 
 During the demo day, I prepared a presentation showcasing my idea, process and impact of my product. However, I believed that the result of my project was more than just something to present via a presentation and I prepared the game along with the gyroscope for people to use experience the controls for themselves. This made my demonstration more interactive and engaging to people.
 
-#### Week 9
+#### Week 9 (Duo Project)
 
 For the duo project, the set-up of our booth played an essential role in conveying our final product as well as the process. As shown in the image in the Duo Project, under Expo, we have displayed our initial prototypes on the left and presented our final prototype in the center. To accompany our prototypes, we made a presentation to talk about how this product connects to the real world, our process and the impact it might have.
 
 When the expo started, we have immediately attracted people's attention. People were involved in experiencing our product. They could interact with the sensors and see for themselves the RC car automatically stop to avoid collision with their hands. They were genuinely intrigued on how everything tied in together.
 
-#### Week 15
+#### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
 
@@ -418,15 +418,15 @@ When the expo started, we have immediately attracted people's attention. People 
 
 > You articulate your professional ambitions and focus and demonstrate your efforts and growth within the roles you fulfill in your projects.
 
-#### Week 4
+#### Week 4 (Individual Project)
 
 Being a student from the software branch, my comfort zone is software programming however, I always wanted to use my skills to build something fun and interactive such as controlling a drone with a VR headset but never knew how to link software and hardware together. The personal project has given me the opportunity to focus exactly on that. In the future, I would like to work more on projects like this.
 
-#### Week 9
+#### Week 9 (Duo Project)
 
 I have put forth my technical skills in the Duo Project to communicate how we might address our problem from both a software and hardware point of view. I believe that, with the input of my teammates, I was able to produce results that pushed our prototypes forward. I was involved in almost all the programming that was done as well as did some pair-programming with Andrija to further explore possibilities.
 
-#### Week 15
+#### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
 
