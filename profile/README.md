@@ -298,7 +298,7 @@ As a group, we have decided to provide feedback for each other too:
 
 This project was our final and, arguably, the most important project of the semester. Being an upscaled version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
 
-Due to the abstract nature of the project, our approach to tackling how generative AI can bring value to Greenhouse was heavily focused around research. Specifically, the effects of AI generated content on people's creativity and emotions. 
+Due to the abstract nature of the project, our approach to tackling how generative AI could bring value to Greenhouse was heavily focused around research. Specifically, the effects of AI generated content on people's creativity and emotions. 
 
 In general, I will talk about the work we did as a group and mention explicitly my contributions to the project from time to time.
 
@@ -313,6 +313,8 @@ The source code of my part of the project can be found here:
 #
 
 ### Trigger
+
+
 
 <br/>
 
@@ -410,7 +412,11 @@ When the expo started, we have immediately attracted people's attention. People 
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-===
+The client project revolves alot around the client's needs. Although we were only given the opportunity to meet twice, we made sure to present as much relevant information as possible in a relavely short amount of time. 
+
+My part in this was relatvely passive for the first sprint presentation. I did not present, however, I maintained the conversation with the client after the presentation to ensure that the cluient was satified with our approach to how Greenhouse can use generative AI; before the presentation, I feared that the client would rather want us to focus on their clients rather than Greenhouse employees. We got some clarification and concluded that they were on board with our idea.
+
+For the second sprint presentation I was much more active as I was one of the two presenters. I really enjoyed presenting because it enabled me to showcase the work and research we have put so far. I made a demo app to demonstrate more concretely how we envisioned gen. AI to be used by Greenhouse employees. The reception of the presentation was very positive and I was satified with the feedback we got to further improve the app and, in general, our project.
 
 #
 
@@ -429,5 +435,6 @@ I have put forth my technical skills in the Duo Project to communicate how we mi
 #### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
+make a good empression when presenting (intership opportunities).
 
 #
