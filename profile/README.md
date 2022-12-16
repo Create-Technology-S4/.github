@@ -314,7 +314,7 @@ The source code of my part of the project can be found here:
 
 ### Trigger
 
-
+===
 
 <br/>
 
@@ -335,6 +335,7 @@ In the Duo Project, we started by identifying a problem: cases of train-related 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
+omg i have so much to say
 
 #
 
@@ -355,6 +356,7 @@ This is when we spent our full attention towards what we could do with the techn
 #### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
+Discover how can gen. AI be used 
 
 #
 
@@ -373,6 +375,7 @@ In my Duo Project, the final prototype had key interactive elements; the ultraso
 #### Week 15 (Client Project, Sprint 1 & 2)
 
 ===
+app UI
 
 #
 
@@ -392,7 +395,13 @@ Our prototypes were dictated based on feedback given. Everytime we showcased our
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-===
+For the client project, our approach to Greenhouse's challenge was much more conceptual and did not really focused on any specific piece of hardware or software. This was intersting and fun because this enabled me to work on prototypes that did not necessarily revolved around code and programming like the previous projects. 
+
+For our first prototype, we wanted to convey that our idea was based around a room with projections of AI generated images. For that, with the help of [Giovanna](https://i464249.hera.fhict.nl), I worked for the first time with the laser cutter. I experimented with different designs on a computer program before printing out a small mockup room. I discovered that the laser cutter was extremely precise. This was good news because I wanted to make the prototype a bit more complex by adding an inner transparent box that would be rigid enough to hold images in place against the walls.
+
+For the second sprint demo, I went back to my confort zone and develop a small web application that would showcase how through speech, an image could easily and quickly be generated from an API. For this app prototype, it was important for me for this to be quick as the feedback we would receive from the client could drastically change how the app is coded. 
+
+Overall, the I am quite happy with the prototypes and I think it they were able to convey our ideas effectively. 
 
 #
 
@@ -434,7 +443,8 @@ I have put forth my technical skills in the Duo Project to communicate how we mi
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-===
-make a good empression when presenting (intership opportunities).
+For the client project, I worked on a few aspects which has had an impact on my technical skills. Most notably, the importance of rapid software prototyping. For the app prototype, I relied on readily available libraries and not reinvent the wheel (I like to do that from time to time, or atleast try) to quickly assemble a working demo for our client. Beyond the technical knowledge I have gained, I also realised that Greenhouse is a very intersting software company.
+
+Altough I have already done my internship, I know I will be doing more in the future and so I realised that Greenhouse would be a really good place. Not only do they have a software engineering department but they also focus on research, particularly in the field of blockchain. I spend some personal time working on smart contracts and experimenting with how NFTs can be used in the real world and Greenhouse can provide internships that direclty align with this interest. That is why I want the client project to be a success to demonstrate that I took part in a project that they liked.
 
 #
