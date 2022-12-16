@@ -334,8 +334,15 @@ In the Duo Project, we started by identifying a problem: cases of train-related 
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-===
-omg i have so much to say
+It is not very common for me to hold some strong opinions on some piece of technology (appart from NFTs) however, when it comes to AI generated content (ei. images, text, audio, etc) or AI in general, I can see clear trends that is going to propel AI rapidly into our everyday life.
+
+My interest in computers really began when I was in middle school. I started paying more attention to hardware, specifically GPUs (the part of a computer that delivers computing power). Over the years, performance increased steadily however, in the last two years, GPUs have become orders of magnitude better than the previous generation GPUs. I have also noticed that this trend is very similar to the capabilites of AI where, over the last two years, we see a high jump in the capabilites of AI models released.
+
+There is a clear correlation between the release of more powerful GPUs and the release of more capable AIs. This might be obvious but I find it fascinating that it takes both hardware companies (ei Nvidea) and software companies (ei Google) to truly make technological breakthroughs and not sole companies.
+
+My point is that the more powerful the GPUs, the more capable the AIs. There will inevitably be a point in time where AI will shift from an experimental state to a more defined role in our day to day life beyond just tools used for statistics and targeted advertisement.
+
+The client project enables me to explore the current state of those AIs and how they might be used to stimulate emotions and ideas.
 
 #
 
