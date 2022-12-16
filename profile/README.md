@@ -125,7 +125,7 @@ This resulted in the demo below.
   <img src="docs/individual-project/third.gif" height="500" />
 </p>
 
-## Reflection
+### Reflection
 
 This project has been really fun to work on. Unlike most project I worked on in the past, the short time given has given me a new way of working in the sense that I had to focus on the stuff that mattered most. This project felt like it was more of a hackathon to quickly get ideas into form. I wished I was given more time to work on this as I think I would have been able to polish my example way more and perhaps even integrate a component to also trigger movement.
 
