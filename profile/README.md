@@ -362,8 +362,11 @@ This is when we spent our full attention towards what we could do with the techn
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-===
-Discover how can gen. AI be used 
+For the client project, we were not given any specific requirements as to what type of generated content we should focus on. We all had very vague ideas on what to do but we all did research to consolidate our concept. The research that I have done revolved sepcifcally around the technical aspect. In general, what can we do technically that is achievable within the time frame we have. I made some research into what kind of APIs were available as well as what type of generative AI we can incorporate in our project. 
+
+During the many discussion sessions we had over the first sprint, I have communicated my research and given my opinions on what I believed to be feasible as a solution we could deliver to our client in terms of software. 
+
+During the second sprint, I have spent some time putting the research I have done into a demoable prototype. For this app, I have also made some research into the ways the application can handle user inputs and I have concluded that we can use speech recognition to avoid having the users manually enter their inputs.
 
 #
 
@@ -381,7 +384,9 @@ In my Duo Project, the final prototype had key interactive elements; the ultraso
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckly for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs. Later, [Dion]() had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing. 
+From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckly for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs because that was a feature that I really wanted to highlight. Later, [Dion]() had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing. 
+
+Essentially, the user is able to input some information through speech and the app would handle generating and displaying the image autonomously.
 
 #
 
@@ -407,7 +412,7 @@ For our first prototype, we wanted to convey that our idea was based around a ro
 
 For the second sprint demo, I went back to my confort zone and develop a small web application that would showcase how through speech, an image could easily and quickly be generated from an API. For this app prototype, it was important for me for this to be quick as the feedback we would receive from the client could drastically change how the app is coded. 
 
-Overall, the I am quite happy with the prototypes and I think it they were able to convey our ideas effectively. 
+Overall, I am quite happy with the prototypes and I think they were able to convey our ideas effectively. 
 
 #
 
