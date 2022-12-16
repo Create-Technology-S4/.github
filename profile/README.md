@@ -290,11 +290,11 @@ As a group, we have decided to provide feedback for each other too:
 
 > 🚧 [Under Construction] 🚧
 
-> Name:     **Generative AI @ Greenhouse**
+> Client:   **Greenhouse**
 
 > Duration: **9 Weeks**
 
-> Members:  **[Dion](), [Giovanna](https://i464249.hera.fhict.nl), [Coen](https://portfoliosemester4.vercel.app/), [Stefan](), [Kaloyan](), Noah (myself)**
+> Members:  **[Dion](https://dion-portofolio.webflow.io/), [Giovanna](https://i464249.hera.fhict.nl), [Coen](https://portfoliosemester4.vercel.app/), [Stefan](), [Kaloyan](), Noah (myself)**
 
 This project was our final and, arguably, the most important project of the semester. Being an upscale version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
 
@@ -384,7 +384,7 @@ In my Duo Project, the final prototype had key interactive elements; the ultraso
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckily for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs because that was a feature that I really wanted to highlight. Later, [Dion]() had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing.
+From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckily for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs because that was a feature that I really wanted to highlight. Later, [Dion](https://dion-portofolio.webflow.io/) had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing.
 
 Essentially, the user is able to input some information through speech and the app would handle generating and displaying the image autonomously.
 
