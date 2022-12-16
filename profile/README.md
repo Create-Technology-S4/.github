@@ -296,9 +296,9 @@ As a group, we have decided to provide feedback for each other too:
 
 > Members:  **[Dion](), [Giovanna](https://i464249.hera.fhict.nl), [Coen](https://portfoliosemester4.vercel.app/), [Stefan](), [Kaloyan](), Noah (myself)**
 
-This project was our final and, arguably, the most important project of the semester. Being an upscaled version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
+This project was our final and, arguably, the most important project of the semester. Being an upscale version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
 
-Due to the abstract nature of the project, our approach to tackling how generative AI could bring value to Greenhouse was heavily focused around research. Specifically, the effects of AI generated content on people's creativity and emotions. 
+Due to the abstract nature of the project, our approach to tackling how generative AI could bring value to Greenhouse was heavily focused around research. Specifically, the effects of AI generated content on people's creativity and emotions.
 
 In general, I will talk about the work we did as a group and mention explicitly my contributions to the project from time to time.
 
@@ -334,13 +334,13 @@ In the Duo Project, we started by identifying a problem: cases of train-related 
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-It is not very common for me to hold some strong opinions on some piece of technology (appart from NFTs) however, when it comes to AI generated content (ei. images, text, audio, etc) or AI in general, I can see clear trends that is going to propel AI rapidly into our everyday life.
+It is not very common for me to hold some strong opinions on some piece of technology (apart from NFTs) however, when it comes to AI generated content (ei. images, text, audio, etc) or AI in general, I can see clear trends that is going to propel AI rapidly into our everyday life.
 
-My interest in computers really began when I was in middle school. I started paying more attention to hardware, specifically GPUs (the part of a computer that delivers computing power). Over the years, performance increased steadily however, in the last two years, GPUs have become orders of magnitude better than the previous generation GPUs. I have also noticed that this trend is very similar to the capabilites of AI where, over the last two years, we see a high jump in the capabilites of AI models released.
+My interest in computers really began when I was in middle school. I started paying more attention to hardware, specifically GPUs (the part of a computer that delivers computing power). Over the years, performance increased steadily however, in the last two years, GPUs have become orders of magnitude better than the previous generation GPUs. I have also noticed that this trend is very similar to the capabilities of AI where, over the last two years, we see a high jump in the capabilities of AI models released.
 
-There is a clear correlation between the release of more powerful GPUs and the release of more capable AIs. This might be obvious but I find it fascinating that it takes both hardware companies (ei Nvidea) and software companies (ei Google) to truly make technological breakthroughs and not sole companies.
+There is a clear correlation between the release of more powerful GPUs and the release of more capable AIs. This might be obvious, but I find it fascinating that it takes both hardware companies (ei Nvidia) and software companies (ei Google) to truly make technological breakthroughs and not sole companies.
 
-My point is that the more powerful the GPUs, the more capable the AIs. There will inevitably be a point in time where AI will shift from an experimental state to a more defined role in our day to day life beyond just tools used for statistics and targeted advertisement.
+My point is that the more powerful the GPUs, the more capable the AIs. There will inevitably be a point in time when AI will shift from an experimental state to a more defined role in our day-to-day life beyond just tools used for statistics and targeted advertisement.
 
 The client project enables me to explore the current state of those AIs and how they might be used to stimulate emotions and ideas.
 
@@ -362,11 +362,11 @@ This is when we spent our full attention towards what we could do with the techn
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-For the client project, we were not given any specific requirements as to what type of generated content we should focus on. We all had very vague ideas on what to do but we all did research to consolidate our concept. The research that I have done revolved sepcifcally around the technical aspect. In general, what can we do technically that is achievable within the time frame we have. I made some research into what kind of APIs were available as well as what type of generative AI we can incorporate in our project. 
+For the client project, we were not given any specific requirements as to what type of generated content we should focus on. We all had very vague ideas on what to do, but we all did research to consolidate our concept. The research that I have done revolved specifically around the technical aspect. In general, what can we do technically that is achievable within the time frame we have. I made some research into what kind of APIs were available as well as what type of generative AI we can incorporate in our project.
 
-During the many discussion sessions we had over the first sprint, I have communicated my research and given my opinions on what I believed to be feasible as a solution we could deliver to our client in terms of software. 
+During the many discussion sessions we had over the first sprint, I have communicated my research and given my opinions on what I believed to be feasible as a solution we could deliver to our client in terms of software.
 
-During the second sprint, I have spent some time putting the research I have done into a demoable prototype. For this app, I have also made some research into the ways the application can handle user inputs and I have concluded that we can use speech recognition to avoid having the users manually enter their inputs.
+During the second sprint, I have spent some time putting the research I have done into a demo-able prototype. For this app, I have also made some research into the ways the application can handle user inputs and I have concluded that we can use speech recognition to avoid having the users manually enter their inputs.
 
 #
 
@@ -384,7 +384,7 @@ In my Duo Project, the final prototype had key interactive elements; the ultraso
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckly for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs because that was a feature that I really wanted to highlight. Later, [Dion]() had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing. 
+From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckily for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs because that was a feature that I really wanted to highlight. Later, [Dion]() had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing.
 
 Essentially, the user is able to input some information through speech and the app would handle generating and displaying the image autonomously.
 
@@ -406,13 +406,13 @@ Our prototypes were dictated based on feedback given. Everytime we showcased our
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-For the client project, our approach to Greenhouse's challenge was much more conceptual and did not really focused on any specific piece of hardware or software. This was intersting and fun because this enabled me to work on prototypes that did not necessarily revolved around code and programming like the previous projects. 
+For the client project, our approach to Greenhouse's challenge was much more conceptual and did not really focus on any specific piece of hardware or software. This was interesting and fun because this enabled me to work on prototypes that did not necessarily revolve around code and programming like the previous projects.
 
 For our first prototype, we wanted to convey that our idea was based around a room with projections of AI generated images. For that, with the help of [Giovanna](https://i464249.hera.fhict.nl), I worked for the first time with the laser cutter. I experimented with different designs on a computer program before printing out a small mockup room. I discovered that the laser cutter was extremely precise. This was good news because I wanted to make the prototype a bit more complex by adding an inner transparent box that would be rigid enough to hold images in place against the walls.
 
-For the second sprint demo, I went back to my confort zone and develop a small web application that would showcase how through speech, an image could easily and quickly be generated from an API. For this app prototype, it was important for me for this to be quick as the feedback we would receive from the client could drastically change how the app is coded. 
+For the second sprint demo, I went back to my comfort zone and develop a small web application that would showcase how through speech, an image could easily and quickly be generated from an API. For this app prototype, it was important for me for this to be quick as the feedback we would receive from the client could drastically change how the app is coded.
 
-Overall, I am quite happy with the prototypes and I think they were able to convey our ideas effectively. 
+Overall, I am quite happy with the prototypes and I think they were able to convey our ideas effectively.
 
 #
 
@@ -432,11 +432,11 @@ When the expo started, we have immediately attracted people's attention. People 
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-The client project revolves alot around the client's needs. Although we were only given the opportunity to meet twice, we made sure to present as much relevant information as possible in a relavely short amount of time. 
+The client project revolves a lot around the client's needs. Although we were only given the opportunity to meet twice, we made sure to present as much relevant information as possible in a relatively short amount of time.
 
-My part in this was relatvely passive for the first sprint presentation. I did not present, however, I maintained the conversation with the client after the presentation to ensure that the cluient was satified with our approach to how Greenhouse can use generative AI; before the presentation, I feared that the client would rather want us to focus on their clients rather than Greenhouse employees. We got some clarification and concluded that they were on board with our idea.
+My part in this was relatively passive for the first sprint presentation. I did not present, however, I maintained the conversation with the client after the presentation to ensure that the client was satisfied with our approach to how Greenhouse can use generative AI; before the presentation, I feared that the client would rather want us to focus on their clients rather than Greenhouse employees. We got some clarification and concluded that they were on board with our idea.
 
-For the second sprint presentation I was much more active as I was one of the two presenters. I really enjoyed presenting because it enabled me to showcase the work and research we have put so far. I made a demo app to demonstrate more concretely how we envisioned gen. AI to be used by Greenhouse employees. The reception of the presentation was very positive and I was satified with the feedback we got to further improve the app and, in general, our project.
+For the second sprint presentation I was much more active as I was one of the two presenters. I really enjoyed presenting because it enabled me to showcase the work and research we have put so far. I made a demo app to demonstrate more concretely how we envisioned gen. AI to be used by Greenhouse employees. The reception of the presentation was very positive, and I was satisfied with the feedback we got to further improve the app and, in general, our project.
 
 #
 
@@ -454,8 +454,8 @@ I have put forth my technical skills in the Duo Project to communicate how we mi
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-For the client project, I worked on a few aspects which has had an impact on my technical skills. Most notably, the importance of rapid software prototyping. For the app prototype, I relied on readily available libraries and not reinvent the wheel (I like to do that from time to time, or atleast try) to quickly assemble a working demo for our client. Beyond the technical knowledge I have gained, I also realised that Greenhouse is a very intersting software company.
+For the client project, I worked on a few aspects which has had an impact on my technical skills. Most notably, the importance of rapid software prototyping. For the app prototype, I relied on readily available libraries and not reinvent the wheel (I like to do that from time to time, or at least try) to quickly assemble a working demo for our client. Beyond the technical knowledge I have gained, I also realised that Greenhouse is a very interesting software company.
 
-Altough I have already done my internship, I know I will be doing more in the future and so I realised that Greenhouse would be a really good place. Not only do they have a software engineering department but they also focus on research, particularly in the field of blockchain. I spend some personal time working on smart contracts and experimenting with how NFTs can be used in the real world and Greenhouse can provide internships that direclty align with this interest. That is why I want the client project to be a success to demonstrate that I took part in a project that they liked.
+Although I have already done my internship, I know I will be doing more in the future, and so I realised that Greenhouse would be a perfect place. Not only do they have a software engineering department but they also focus on research, particularly in the field of blockchain. I spend some personal time working on smart contracts and experimenting with how NFTs can be used in the real world and Greenhouse can provide internships that directly align with this interest. That is why I want the client project to be a success to demonstrate that I took part in a project that they liked.
 
 #
