@@ -374,8 +374,7 @@ In my Duo Project, the final prototype had key interactive elements; the ultraso
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-===
-app UI
+From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckly for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs. Later, [Dion]() had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing. 
 
 #
 
