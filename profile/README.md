@@ -318,7 +318,7 @@ The source code of my part of the project can be found here:
 
 #### Brainstorming
 
-
+===
 
 #### Research
 
@@ -334,9 +334,15 @@ I think that [Sassbook AI Writer](https://sassbook.com/ai-writer) summarized the
 
 #### Prototyping
 
+===
+
 #### Presentation
 
+===
+
 #### Reflection
+
+===
 
 ### Sprint 2
 
@@ -363,13 +369,19 @@ As mentioned, there is a wide range of readily available libraries in the React 
 
 #### Interviews
 
+===
+
 #### Prototyping
 
+===
 
 #### Presentation
 
+===
+
 #### Reflection
 
+===
 
 <br/>
 
