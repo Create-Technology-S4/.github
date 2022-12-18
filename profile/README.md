@@ -356,7 +356,6 @@ I kept in mind the following core software requirements:
 - the app must be portable
 - the development process should be short
 
-
 During my research, I noticed that there were lots of websites that allow users to input some text to generate images, audio or text but they were all guarded behind a very restricting paywall. This would have made the development of an application either expensive or difficult and limited however, Greenhouse has given us access to an OpenAI key. So I started making some research with what was available with OpenAI.
 
 Since we definitely wanted to add an image generator, I dug around and discovered that Dall-e 2 was available on [OpenAI](https://openai.com/dall-e-2/) and settled on using that.
