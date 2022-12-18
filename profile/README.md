@@ -288,8 +288,6 @@ As a group, we have decided to provide feedback for each other too:
 
 ## Client Project
 
-> 🚧 [Under Construction] 🚧
-
 > Client:   **Greenhouse**
 
 > Duration: **9 Weeks**
@@ -316,11 +314,9 @@ The source code of my part of the project can be found here:
 
 ### Sprint 1
 
-#### Brainstorming
-
-===
-
 #### Research
+
+> ICT Methods: Best good and bad practices, Literature study
 
 Although the scope of our project had few constraints, it was very difficult for us to find something product solution to work on that would satisfy our Greenhouse's needs. This is why we have dedicated a significant portion of this first sprint on doing research.
 
@@ -332,7 +328,24 @@ Generative models are used to create images and audio from a set of data. These 
 
 I think that [Sassbook AI Writer](https://sassbook.com/ai-writer) summarized the results of my research fairly accurately with its answer above.
 
+#### Brainstorming
+
+> ICT Methods: Brainstorm
+
+<p align="center">
+  <img src="docs/client-project/brainstorm-1.png" width="500" />
+  <img src="docs/client-project/brainstorm-2.jpeg" width="500" />
+</p>
+
+===
+
 #### Prototyping
+
+> ICT Methods: Prototyping
+
+<p align="center">
+  <img src="docs/client-project/first-prototype.png" height="500" />
+</p>
 
 ===
 
@@ -347,6 +360,8 @@ I think that [Sassbook AI Writer](https://sassbook.com/ai-writer) summarized the
 ### Sprint 2
 
 #### Research
+
+> ICT Methods: Available product analysis, Literature study, Requirements prioritization
 
 For this second researching phases, I also took the time to familiarize myself with available APIs or libraries that we could potentially incorporate in to our project. 
 
@@ -368,9 +383,22 @@ As mentioned, there is a wide range of readily available libraries in the React 
 
 #### Interviews
 
+> ICT Methods: Interviews, Observation
+
+<p align="center">
+  <img src="docs/client-project/Inforgraphic.jpeg" width="500" />
+</p>
+
 ===
 
 #### Prototyping
+
+> ICT Methods: Stakeholder analysis, Product review
+
+<p align="center">
+  <img src="docs/client-project/demo-1.gif" width="500" />
+  <img src="docs/client-project/demo-2.gif" width="500" />
+</p>
 
 ===
 
@@ -381,6 +409,11 @@ As mentioned, there is a wide range of readily available libraries in the React 
 #### Reflection
 
 ===
+
+### Sprint 3
+
+> 🚧 [Under Construction] 🚧
+
 
 <br/>
 
