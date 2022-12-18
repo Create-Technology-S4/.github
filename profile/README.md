@@ -298,9 +298,11 @@ As a group, we have decided to provide feedback for each other too:
 
 This project was our final and, arguably, the most important project of the semester. Being an upscale version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
 
-Due to the abstract nature of the project, our approach to tackling how generative AI could bring value to Greenhouse was heavily focused around research. Specifically, the effects of AI generated content on people's creativity and emotions.
+Due to the abstract nature of the project, our approach to tackling how generative AI could bring value to Greenhouse was heavily focused around research. Specifically, the effects of AI generated content on people's creativity and emotions and how we may achieve this.
 
-In general, I will talk about the work we did as a group and mention explicitly my contributions to the project from time to time.
+<!-- In general, I will talk about the work we did as a group and mention explicitly my contributions to the project from time to time. -->
+
+> Note: I have sequenced this section into different sprints and will grow over time.
 
 #
 
@@ -312,9 +314,62 @@ The source code of my part of the project can be found here:
 
 #
 
-### Trigger
+### Sprint 1
 
-===
+#### Brainstorming
+
+
+
+#### Research
+
+Although the scope of our project had few constraints, it was very difficult for us to find something product solution to work on that would satisfy our Greenhouse's needs. This is why we have dedicated a significant portion of this first sprint on doing research.
+
+Each group member had some preconceived perceptions of generaite AI but none of us were on the same page. Therfore, each of us made some research on various aspects that revolved around AI generated content to deepen our understanding.
+
+I for one tried to answer: *What is generative AI?*
+
+Generative models are used to create images and audio from a set of data. These models can be used for many purposes, such as image generation, speech generation, and text generation. Generators are commonly used in computer vision applications to generate images from data, or for audio generation in the form of speech. They can also be trained to learn the characteristics of the data that they are given. 
+
+I think that [Sassbook AI Writer](https://sassbook.com/ai-writer) summarized the results of my research fairly accurately with its answer above.
+
+#### Prototyping
+
+#### Presentation
+
+#### Reflection
+
+### Sprint 2
+
+#### Research
+
+For this second researching phases, I also took the time to familiarize myself with available APIs or libraries that we could potentially incorporate in to our project. 
+
+I kept in mind the following core software requirements:
+- the ability to generate images based on some input
+- the ability to use speech for input
+- the app must be portable
+- the development process should be short
+
+
+During my research, I noticed that there were lots of websites that allow users to input some text to generate images, audio or text but they were all guarded behind a very restricting paywall. This would have made the development of an application either expensive or difficult and limited however, Greenhouse has given us access to an OpenAI key. So I started making some research with what was available with OpenAI.
+
+Since we definitely wanted to add an image generator, I dug around and discovered that Dall-e 2 was available on [OpenAI](https://openai.com/dall-e-2/) and settled on using that.
+
+An important requirement for the application we wanted to build was to be able to run it on any device because we were not entirely sure on what device the application was going to be running on ultimately. In my opinion, the simplest solution was make a web application because it relatively easy to run on both smartphones and laptops.
+
+I have settled on using [React](https://reactjs.org/) as a framework to develop the application for a few reasons. Firstly, because there is a very large community to continously work on very useful libraries. Secondly, because all the group members that were doing software had done some work with the framework. Lastly, and arguably the most important reason, because react enabled us to do rapid prototyping which was enssential as we did not want to spend too much time working on some feature that the client did not want. 
+
+As mentioned, there is a wide range of readily available libraries in the React ecosystem for many different uses. For voice input, I discoved [react-speech-recognition](https://www.npmjs.com/package/react-speech-recognition) which was also promoted as being easy to integrate.
+
+#### Interviews
+
+#### Prototyping
+
+
+#### Presentation
+
+#### Reflection
+
 
 <br/>
 
