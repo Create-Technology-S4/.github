@@ -300,7 +300,7 @@ Due to the abstract nature of the project, our approach to tackling how generati
 
 <!-- In general, I will talk about the work we did as a group and mention explicitly my contributions to the project from time to time. -->
 
-> Note: I have sequenced this section into different sprints and will grow over time.
+> Note: I have sequenced this section into different sprints which will evolve over time.
 
 #
 
@@ -330,32 +330,65 @@ I think that [Sassbook AI Writer](https://sassbook.com/ai-writer) summarized the
 
 #### Brainstorming
 
-> ICT Methods: Brainstorm
+> ICT Methods: Brainstorm, Usability testing
+
+After we made individual research, we proceeded to brainstorm ideas.
+
+Through many disscussion sessions, we all gave our understanding of generative AI. We had gathered many ideas and summarized our findings into a mindmap, as shown below.
 
 <p align="center">
-  <img src="docs/client-project/brainstorm-1.png" width="500" />
-  <img src="docs/client-project/brainstorm-2.jpeg" width="500" />
+  <img src="docs/client-project/brainstorm-1.png" width="612" />
+  <img src="docs/client-project/brainstorm-2.jpeg" width="388" />
 </p>
 
-===
+We initially focued our attention towards how we may affect people's emotions through images and audio but over time we shifted towards something that focused more on Greenhouse, specifically their employees and how we may trigger inspiration.
+
+Through these disscussions, I have given my take on generative AI and conveyed that AI generated images presented the most potential for influencing people. We had some doubts and decided to take our research further.
+
+#### Testing
+
+> ICT MEthods: Usability testing, Wizard of Ozz
+
+After brainstorming, we proceeded by doing some user testing. During this testing phase, we concluded that both images and audio had an effect on people's emotions and creativity but that images had much greater impact.
+
+Moving forward, we focused on image generation and how we may use it to influence Greenhouse employees.
 
 #### Prototyping
 
-> ICT Methods: Prototyping
+> ICT Methods: Concepting, Prototyping
+
+We wanted to work on a solution that primarily focuses on AI generated images to stimulation emotions and creativity.
+
+To encompass both of those elements, we settled on the idea of having a dark room with projectors. User would be able to convey their inputs after being prompted into some app which would be used to generate images with an AI, as shown in the image below.
+
+<p align="center">
+  <img src="docs/client-project/room-concept.gif" height="500" />
+</p>
+
+For our client however, we wanted to showcase something more professional and visual and we decided to model this room into wood using the laser cutter.
+
+This was my first time using the laser cutter. With the help of [Giovanna](https://i464249.hera.fhict.nl), I modeled a scalled down version of our room which we could present along side with a presentation to our client.
+
+It took us a few attempts to ultimately obtain our first lofi but clean prototype:
 
 <p align="center">
   <img src="docs/client-project/first-prototype.png" height="500" />
 </p>
 
-===
-
 #### Presentation
 
-===
+This was our first presentation with our client. This presentation was particularly important as this presenation servered mostly as means to both showcase our progress as well as receiving feedback on whether they liked our concept.
+
+Along with a presentation, we showed our prototype and explained how and why we did user testing. 
+
+Our physical prototype showcased our ideas to the client effectively and we were able to get invaluable feedback. The client liked the direction we were going in which gave us the green light to expand on our ideas more. 
+
+During this presentation, I had a more passive stance and participated during the questioning phased to clarify some things to our client such as how will users is able to control the images displayed through the projectors.
 
 #### Reflection
 
-===
+This first sprint has proven to be a vastly different experience than the previous projects I worked on. This is primarily due to the nature of the project more than anything. Compared to the previous projects I worked on, I worked far more on research and testing rather than prototyping. After extensive research and testing, we have uncovered the effects of AI generated content on people's emotions and creativity.
+This first presentation went well and our client liked our idea. I was exited to move forward in this project.
 
 ### Sprint 2
 
@@ -385,15 +418,28 @@ As mentioned, there is a wide range of readily available libraries in the React 
 
 > ICT Methods: Interviews, Observation
 
+After our first visit to Greenhouse, we needed to understand our target audience: Greenhouse employees in their creative departement. 
+
+To do that, [Dion](https://dion-portofolio.webflow.io/), [Coen](https://portfoliosemester4.vercel.app/) and I decided to visit Greenhouse once more to take the time to interview their employees.
+
+We asked various types of questions which included (but are not limited to):
+- What is your primary source of inspiration (audio, visuals, etc)? 
+- What kind of reference material do you use when working out your ideas? 
+- When working do you prefer peace and quiet or a lively environment? 
+
+The results of our interviews are shown in the infographic below (made by [Dion](https://dion-portofolio.webflow.io/)):
+
 <p align="center">
   <img src="docs/client-project/Inforgraphic.jpeg" width="500" />
 </p>
 
-===
+By conducting these interviews, we gained valuable insight into their work and their creative process when working on a project.
 
 #### Prototyping
 
 > ICT Methods: Stakeholder analysis, Product review
+
+For this second sprint, I worked 
 
 <p align="center">
   <img src="docs/client-project/demo-1.gif" width="500" />
@@ -413,7 +459,6 @@ As mentioned, there is a wide range of readily available libraries in the React 
 ### Sprint 3
 
 > 🚧 [Under Construction] 🚧
-
 
 <br/>
 
