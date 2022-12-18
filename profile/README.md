@@ -294,7 +294,7 @@ As a group, we have decided to provide feedback for each other too:
 
 > Duration: **9 Weeks**
 
-> Members:  **[Dion](https://dion-portofolio.webflow.io/), [Giovanna](https://i464249.hera.fhict.nl), [Coen](https://portfoliosemester4.vercel.app/), [Stefan](), [Kaloyan](), Noah (myself)**
+> Members:  **[Dion](https://dion-portofolio.webflow.io/), [Giovanna](https://i464249.hera.fhict.nl), [Coen](https://portfoliosemester4.vercel.app/), [Rik](), [Kaloyan](), Noah (myself)**
 
 This project was our final and, arguably, the most important project of the semester. Being an upscale version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
 
