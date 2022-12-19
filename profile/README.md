@@ -320,11 +320,11 @@ The source code of my part of the project can be found here:
 
 Although the scope of our project had few constraints, it was very difficult for us to find something product solution to work on that would satisfy our Greenhouse's needs. This is why we have dedicated a significant portion of this first sprint on doing research.
 
-Each group member had some preconceived perceptions of generaite AI but none of us were on the same page. Therfore, each of us made some research on various aspects that revolved around AI generated content to deepen our understanding.
+Each group member had some preconceived perceptions of generative AI but none of us were on the same page. Therefore, each of us made some research on various aspects that revolved around AI generated content to deepen our understanding.
 
-I for one tried to answer: *What is generative AI?*
+I, for one, tried to answer: *What is generative AI?*
 
-Generative models are used to create images and audio from a set of data. These models can be used for many purposes, such as image generation, speech generation, and text generation. Generators are commonly used in computer vision applications to generate images from data, or for audio generation in the form of speech. They can also be trained to learn the characteristics of the data that they are given. 
+Generative models are used to create images and audio from a set of data. These models can be used for many purposes, such as image generation, speech generation, and text generation. Generators are commonly used in computer vision applications to generate images from data, or for audio generation in the form of speech. They can also be trained to learn the characteristics of the data that they are given.
 
 I think that [Sassbook AI Writer](https://sassbook.com/ai-writer) summarized the results of my research fairly accurately with its answer above.
 
@@ -334,20 +334,20 @@ I think that [Sassbook AI Writer](https://sassbook.com/ai-writer) summarized the
 
 After we made individual research, we proceeded to brainstorm ideas.
 
-Through many disscussion sessions, we all gave our understanding of generative AI. We had gathered many ideas and summarized our findings into a mindmap, as shown below.
+Through many discussion sessions, we all gave our understanding of generative AI. We had gathered many ideas and summarized our findings into a mind-map, as shown below.
 
 <p align="center">
   <img src="docs/client-project/brainstorm-1.png" width="612" />
   <img src="docs/client-project/brainstorm-2.jpeg" width="388" />
 </p>
 
-We initially focued our attention towards how we may affect people's emotions through images and audio but over time we shifted towards something that focused more on Greenhouse, specifically their employees and how we may trigger inspiration.
+We initially focused our attention towards how we may affect people's emotions through images and audio but over time we shifted towards something that focused more on Greenhouse, specifically their employees and how we may trigger inspiration.
 
-Through these disscussions, I have given my take on generative AI and conveyed that AI generated images presented the most potential for influencing people. We had some doubts and decided to take our research further.
+Through these discussions, I have given my take on generative AI and conveyed that AI generated images presented the most potential for influencing people. We had some doubts and decided to take our research further.
 
 #### Testing
 
-> ICT MEthods: Usability testing, Wizard of Ozz
+> ICT Methods: Usability testing, Wizard of Ozz
 
 After brainstorming, we proceeded by doing some user testing. During this testing phase, we concluded that both images and audio had an effect on people's emotions and creativity but that images had much greater impact.
 
@@ -365,9 +365,9 @@ To encompass both of those elements, we settled on the idea of having a dark roo
   <img src="docs/client-project/room-concept.gif" height="500" />
 </p>
 
-For our client however, we wanted to showcase something more professional and visual and we decided to model this room into wood using the laser cutter.
+For our client however, we wanted to showcase something more professional and visual, and we decided to model this room into wood using the laser cutter.
 
-This was my first time using the laser cutter. With the help of [Giovanna](https://i464249.hera.fhict.nl), I modeled a scalled down version of our room which we could present along side with a presentation to our client.
+This was my first time using the laser cutter. With the help of [Giovanna](https://i464249.hera.fhict.nl), I modeled a scaled down version of our room which we could present alongside with a presentation to our client.
 
 It took us a few attempts to ultimately obtain our first lofi but clean prototype:
 
@@ -377,18 +377,18 @@ It took us a few attempts to ultimately obtain our first lofi but clean prototyp
 
 #### Presentation
 
-This was our first presentation with our client. This presentation was particularly important as this presenation servered mostly as means to both showcase our progress as well as receiving feedback on whether they liked our concept.
+This was our first presentation with our client. This presentation was particularly important as this presentation served mostly as means to both showcase our progress and receiving feedback on whether they liked our concept.
 
-Along with a presentation, we showed our prototype and explained how and why we did user testing. 
+Along with a presentation, we showed our prototype and explained how and why we did user testing.
 
-Our physical prototype showcased our ideas to the client effectively and we were able to get invaluable feedback. The client liked the direction we were going in which gave us the green light to expand on our ideas more. 
+Our physical prototype showcased our ideas to the client effectively, and we were able to get invaluable feedback. The client liked the direction we were going in which gave us the green light to expand on our ideas more.
 
 During this presentation, I had a more passive stance and participated during the questioning phased to clarify some things to our client such as how will users is able to control the images displayed through the projectors.
 
 #### Reflection
 
 This first sprint has proven to be a vastly different experience than the previous projects I worked on. This is primarily due to the nature of the project more than anything. Compared to the previous projects I worked on, I worked far more on research and testing rather than prototyping. After extensive research and testing, we have uncovered the effects of AI generated content on people's emotions and creativity.
-This first presentation went well and our client liked our idea. I was exited to move forward in this project.
+This first presentation went well and our client liked our idea. I was excited to move forward in this project.
 
 ### Sprint 2
 
@@ -396,7 +396,7 @@ This first presentation went well and our client liked our idea. I was exited to
 
 > ICT Methods: Available product analysis, Literature study, Requirements prioritization
 
-For this second researching phases, I also took the time to familiarize myself with available APIs or libraries that we could potentially incorporate in to our project. 
+For this second researching phases, I also took the time to familiarize myself with available APIs or libraries that we could potentially incorporate in to our project.
 
 I kept in mind the following core software requirements:
 - the ability to generate images based on some input
@@ -404,28 +404,28 @@ I kept in mind the following core software requirements:
 - the app must be portable
 - the development process should be short
 
-During my research, I noticed that there were lots of websites that allow users to input some text to generate images, audio or text but they were all guarded behind a very restricting paywall. This would have made the development of an application either expensive or difficult and limited however, Greenhouse has given us access to an OpenAI key. So I started making some research with what was available with OpenAI.
+During my research, I noticed that there were lots of websites that allow users to input some text to generate images, audio or text, but they were all guarded behind a very restricting paywall. This would have made the development of an application either expensive or difficult and limited however, Greenhouse has given us access to an OpenAI key. So I started making some research with what was available with OpenAI.
 
 Since we definitely wanted to add an image generator, I dug around and discovered that Dall-e 2 was available on [OpenAI](https://openai.com/dall-e-2/) and settled on using that.
 
-An important requirement for the application we wanted to build was to be able to run it on any device because we were not entirely sure on what device the application was going to be running on ultimately. In my opinion, the simplest solution was make a web application because it relatively easy to run on both smartphones and laptops.
+An important requirement for the application we wanted to build was to be able to run it on any device because we were not entirely sure on what device the application was going to be running on ultimately. In my opinion, the simplest solution was make a web application because it is relatively easy to run on both smartphones and laptops.
 
-I have settled on using [React](https://reactjs.org/) as a framework to develop the application for a few reasons. Firstly, because there is a very large community to continously work on very useful libraries. Secondly, because all the group members that were doing software had done some work with the framework. Lastly, and arguably the most important reason, because react enabled us to do rapid prototyping which was enssential as we did not want to spend too much time working on some feature that the client did not want. 
+I have settled on using [React](https://reactjs.org/) as a framework to develop the application for a few reasons. Firstly, because there is a very large community to continuously work on very useful libraries. Secondly, because all the group members that were doing software had done some work with the framework. Lastly, and arguably the most important reason, because react enabled us to do rapid prototyping which was essential as we did not want to spend too much time working on some feature that the client did not want.
 
-As mentioned, there is a wide range of readily available libraries in the React ecosystem for many different uses. For voice input, I discoved [react-speech-recognition](https://www.npmjs.com/package/react-speech-recognition) which was also promoted as being easy to integrate.
+As mentioned, there is a wide range of readily available libraries in the React ecosystem for many uses. For voice input, I discovered [react-speech-recognition](https://www.npmjs.com/package/react-speech-recognition) which was also promoted as being easy to integrate.
 
 #### Interviews
 
 > ICT Methods: Interviews, Observation
 
-After our first visit to Greenhouse, we needed to understand our target audience: Greenhouse employees in their creative departement. 
+After our first visit to Greenhouse, we needed to understand our target audience: Greenhouse employees in their creative department.
 
 To do that, [Dion](https://dion-portofolio.webflow.io/), [Coen](https://portfoliosemester4.vercel.app/) and I decided to visit Greenhouse once more to take the time to interview their employees.
 
 We asked various types of questions which included (but are not limited to):
-- What is your primary source of inspiration (audio, visuals, etc)? 
-- What kind of reference material do you use when working out your ideas? 
-- When working do you prefer peace and quiet or a lively environment? 
+- What is your primary source of inspiration (audio, visuals, etc)?
+- What kind of reference material do you use when working out your ideas?
+- When working do you prefer peace and quiet or a lively environment?
 
 The results of our interviews are shown in the infographic below (made by [Dion](https://dion-portofolio.webflow.io/)):
 
@@ -441,9 +441,9 @@ By conducting these interviews, we gained valuable insight into their work and t
 
 Last sprint we came you with a prototype for the room. This week we wanted to make a prototype for the app we had envisioned up until this point.
 
-From the research I have made, I was able to quickly make a web app (on the the left). I had a meeting with the rest of the group and we disscussed possible designs and features we wanted to add. For the second sprint demo, this MVP was more than enough to get some useful feedback.
+From the research I have made, I was able to quickly make a web app (on the left). I had a meeting with the rest of the group and we discussed possible designs and features we wanted to add. For the second sprint demo, this MVP was more than enough to get some useful feedback.
 
-I wanted to address the design of the application as at the time it was absolutely barebones. [Dion](https://dion-portofolio.webflow.io/) gave me a design he had in mind and I merged it with some design elements that I worked on along with [Kaloyan](https://dion-portofolio.webflow.io/)'s audio knowledge.
+I wanted to address the design of the application as at the time it was absolutely bare bones. [Dion](https://dion-portofolio.webflow.io/) gave me a design he had in mind and I merged it with some design elements that I worked on along with [Kaloyan](https://dion-portofolio.webflow.io/)'s audio knowledge.
 
 The results I think we adequate for demo purposes (on the right).
 
@@ -454,9 +454,9 @@ The results I think we adequate for demo purposes (on the right).
 
 #### Presentation
 
-For this sprint, I was one of the presenters. 
+For this sprint, I was one of the presenters.
 
-During this presentation, we talked about some of the research and the results interviews of the interviews as well as showcased a sketchup of the room and eventually the app. We asked our client about some possible options they would like to see in our next meeting and received some suggestions to move forward.
+During this presentation, we talked about some research and the results interviews of the interviews as well as showcased a sketchup of the room and eventually the app. We asked our client about some possible options they would like to see in our next meeting and received some suggestions to move forward.
 
 Our client was invested in our project and asked various types of questions, ranging from the interviews and research we did to the technologies we use to make the app.
 
@@ -468,7 +468,7 @@ As a software student, the design of the applications as not my strong point. Ge
 
 During the presentation phase, I wanted to get more feedback on the app; specifically what to add next.
 
-Overall, I think this sprint has shifted into a phase that is more focused on applying the research we have done into concrete ideas. With this trend in mind, I beleive that next sprint will be much more focused on hardware/software than the previous sprints.
+Overall, I think this sprint has shifted into a phase that is more focused on applying the research we have done into concrete ideas. With this trend in mind, I believe that next sprint will be much more focused on hardware/software than the previous sprints.
 
 ### Sprint 3
 
@@ -614,6 +614,6 @@ I have put forth my technical skills in the Duo Project to communicate how we mi
 
 For the client project, I worked on a few aspects which has had an impact on my technical skills. Most notably, the importance of rapid software prototyping. For the app prototype, I relied on readily available libraries and not reinvent the wheel (I like to do that from time to time, or at least try) to quickly assemble a working demo for our client. Beyond the technical knowledge I have gained, I also realised that Greenhouse is a very interesting software company.
 
-Although I have already done my internship, I know I will be doing more in the future, and so I realised that Greenhouse would be a perfect place. Not only do they have a software engineering department but they also focus on research, particularly in the field of blockchain. I spend some personal time working on smart contracts and experimenting with how NFTs can be used in the real world and Greenhouse can provide internships that directly align with this interest. That is why I want the client project to be a success to demonstrate that I took part in a project that they liked.
+Although I have already done my internship, I know I will be doing more in the future, and so I realised that Greenhouse would be a perfect place. Not only do they have a software engineering department, but they also focus on research, particularly in the field of blockchain. I spend some personal time working on smart contracts and experimenting with how NFTs can be used in the real world and Greenhouse can provide internships that directly align with this interest. That is why I want the client project to be a success to demonstrate that I took part in a project that they liked.
 
 #
