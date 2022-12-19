@@ -439,22 +439,36 @@ By conducting these interviews, we gained valuable insight into their work and t
 
 > ICT Methods: Stakeholder analysis, Product review
 
-For this second sprint, I worked 
+Last sprint we came you with a prototype for the room. This week we wanted to make a prototype for the app we had envisioned up until this point.
+
+From the research I have made, I was able to quickly make a web app (on the the left). I had a meeting with the rest of the group and we disscussed possible designs and features we wanted to add. For the second sprint demo, this MVP was more than enough to get some useful feedback.
+
+I wanted to address the design of the application as at the time it was absolutely barebones. [Dion](https://dion-portofolio.webflow.io/) gave me a design he had in mind and I merged it with some design elements that I worked on along with [Kaloyan](https://dion-portofolio.webflow.io/)'s audio knowledge.
+
+The results I think we adequate for demo purposes (on the right).
 
 <p align="center">
   <img src="docs/client-project/demo-1.gif" width="500" />
   <img src="docs/client-project/demo-2.gif" width="500" />
 </p>
 
-===
-
 #### Presentation
 
-===
+For this sprint, I was one of the presenters. 
+
+During this presentation, we talked about some of the research and the results interviews of the interviews as well as showcased a sketchup of the room and eventually the app. We asked our client about some possible options they would like to see in our next meeting and received some suggestions to move forward.
+
+Our client was invested in our project and asked various types of questions, ranging from the interviews and research we did to the technologies we use to make the app.
 
 #### Reflection
 
-===
+For this sprint, things were much more hands on. I had the opportunity to meet Greenhouse clients directly. This was invaluable because for this sprint I wanted to start working on the app we envisioned in our first sprint.
+
+As a software student, the design of the applications as not my strong point. Generally however, I genuinely like working on the design and compared to the previous projects, I could incorporate some visual elements which I find very interesting such as the audio input circle.
+
+During the presentation phase, I wanted to get more feedback on the app; specifically what to add next.
+
+Overall, I think this sprint has shifted into a phase that is more focused on applying the research we have done into concrete ideas. With this trend in mind, I beleive that next sprint will be much more focused on hardware/software than the previous sprints.
 
 ### Sprint 3
 
