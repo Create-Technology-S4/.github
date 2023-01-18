@@ -480,7 +480,13 @@ During that period right before Christmas, I left early and therefore was not ab
 
 
 
-#### Prototyping
+#### The App
+
+<p align="center">
+  <img src="docs/client-project/demo-1.gif" width="500" />
+  <img src="docs/client-project/demo-2.gif" width="500" />
+  <img src="docs/client-project/demo-3.gif" width="500" />
+</p>
 
 
 #### Presentation
