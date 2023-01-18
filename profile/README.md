@@ -472,6 +472,23 @@ Overall, I think this sprint has shifted into a phase that is more focused on ap
 
 ### Sprint 3
 
+#### Discussion
+
+After the end of Sprint 2, our research and prototype has been validated; our client was happy with the direcion we were going with. The next step for us was to discuss how we were going to use the app we made in an actual showroom. 
+
+During that period right before Christmas, I left early and therefore was not able to play an active role in where we were going to setup everything. However, based on the location they have chosen and the feedback, I took the time to modify the app to match our needs. Since the room is going to have three projectors, we talked about displaying three different types of images randomly. One image would be generated directly based on the input, another using synonyms and lastly using antonyms.
+
+
+
+#### Prototyping
+
+
+#### Presentation
+
+
+#### Reflection
+
+
 > 🚧 [Under Construction] 🚧
 
 <br/>
@@ -502,6 +519,10 @@ My point is that the more powerful the GPUs, the more capable the AIs. There wil
 
 The client project enables me to explore the current state of those AIs and how they might be used to stimulate emotions and ideas.
 
+#### Week 18 (Client Project, Sprint 3)
+
+challenges
+
 #
 
 ### Innovative concept
@@ -526,6 +547,10 @@ During the many discussion sessions we had over the first sprint, I have communi
 
 During the second sprint, I have spent some time putting the research I have done into a demo-able prototype. For this app, I have also made some research into the ways the application can handle user inputs and I have concluded that we can use speech recognition to avoid having the users manually enter their inputs.
 
+#### Week 18 (Client Project, Sprint 3)
+
+breaking traditions (using internet/other people's stuff)
+
 #
 
 ### Interactive user experience
@@ -545,6 +570,10 @@ In my Duo Project, the final prototype had key interactive elements; the ultraso
 From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckily for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs because that was a feature that I really wanted to highlight. Later, [Dion](https://dion-portofolio.webflow.io/) had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing.
 
 Essentially, the user is able to input some information through speech and the app would handle generating and displaying the image autonomously.
+
+#### Week 18 (Client Project, Sprint 3)
+
+user input, the room experience
 
 #
 
@@ -572,6 +601,10 @@ For the second sprint demo, I went back to my comfort zone and develop a small w
 
 Overall, I am quite happy with the prototypes and I think they were able to convey our ideas effectively.
 
+#### Week 18 (Client Project, Sprint 3)
+
+final app
+
 #
 
 ### Present
@@ -596,6 +629,10 @@ My part in this was relatively passive for the first sprint presentation. I did 
 
 For the second sprint presentation I was much more active as I was one of the two presenters. I really enjoyed presenting because it enabled me to showcase the work and research we have put so far. I made a demo app to demonstrate more concretely how we envisioned gen. AI to be used by Greenhouse employees. The reception of the presentation was very positive, and I was satisfied with the feedback we got to further improve the app and, in general, our project.
 
+#### Week 18 (Client Project, Sprint 3)
+
+demo day, the room
+
 #
 
 ### Personal growth
@@ -615,5 +652,9 @@ I have put forth my technical skills in the Duo Project to communicate how we mi
 For the client project, I worked on a few aspects which has had an impact on my technical skills. Most notably, the importance of rapid software prototyping. For the app prototype, I relied on readily available libraries and not reinvent the wheel (I like to do that from time to time, or at least try) to quickly assemble a working demo for our client. Beyond the technical knowledge I have gained, I also realised that Greenhouse is a very interesting software company.
 
 Although I have already done my internship, I know I will be doing more in the future, and so I realised that Greenhouse would be a perfect place. Not only do they have a software engineering department, but they also focus on research, particularly in the field of blockchain. I spend some personal time working on smart contracts and experimenting with how NFTs can be used in the real world and Greenhouse can provide internships that directly align with this interest. That is why I want the client project to be a success to demonstrate that I took part in a project that they liked.
+
+#### Week 18 (Client Project, Sprint 3)
+
+collaboration, work division, pair programming
 
 #
