@@ -478,14 +478,39 @@ After the end of Sprint 2, our research and prototype has been validated; our cl
 
 During that period right before Christmas, I left early and therefore was not able to play an active role in where we were going to setup everything. However, based on the location they have chosen and the feedback, I took the time to modify the app to match our needs. Since the room is going to have three projectors, we talked about displaying three different types of images randomly. One image would be generated directly based on the input, another using synonyms and lastly using antonyms.
 
+#### Addressing New Requirements
 
+To generate the three different images, Coen and I made some research online about APIs or libraries we could use to do this. We ultimately settled on using an external API to fetch the synonyms/antonyms.
 
-#### The App
+The next step was about intergrating that with the current version of the app. To cut the technical details short, we have generate some diagrams on how the app looked like before and after the changes we made.
+
+##### Prior to changes
 
 <p align="center">
-  <img src="docs/client-project/demo-1.gif" width="500" />
-  <img src="docs/client-project/demo-2.gif" width="500" />
-  <img src="docs/client-project/demo-3.gif" width="500" />
+  <img src="docs/client-project/2-api.png" width="500" />
+</p>
+
+##### After the changes
+
+<p align="center">
+  <img src="docs/client-project/1-api.png" width="500" />
+</p>
+
+After the changes and some user testing, we noticed that sometimes the Dalle API would return a 400 response conveying that some words used were illegal (ei. cocaine, decapitation, killing). Although those words may not have been inputed by the user directly, sometimes the synonym/antonym API can generate those prompts.
+
+To address this issue, we decided to simply regenerate the errored image into something that displays a stop sign. Here the process of generating images from a single audio input:
+
+<p align="center">
+  <img src="docs/client-project/app-user-flow.png" width="500" />
+</p>
+
+#### UI Improvements
+
+As part of the skills that I wanted to improve upon, I wanted to modify the user interface to allow the user to have more control over what the app does. Such as adding whether to record the audio or simply clear the app.
+
+In addition
+<p align="center">
+  <img src="docs/client-project/demo-3.gif" width="1000" />
 </p>
 
 
@@ -527,7 +552,7 @@ The client project enables me to explore the current state of those AIs and how 
 
 #### Week 18 (Client Project, Sprint 3)
 
-challenges
+breaking traditions (using internet/other people's stuff)
 
 #
 
@@ -555,7 +580,6 @@ During the second sprint, I have spent some time putting the research I have don
 
 #### Week 18 (Client Project, Sprint 3)
 
-breaking traditions (using internet/other people's stuff)
 
 #
 
