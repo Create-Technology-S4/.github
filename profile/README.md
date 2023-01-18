@@ -508,7 +508,10 @@ To address this issue, we decided to simply regenerate the errored image into so
 
 As part of the skills that I wanted to improve upon, I wanted to modify the user interface to allow the user to have more control over what the app does. Such as adding whether to record the audio or simply clear the app.
 
-In addition
+In addition, together with [Kaloyan]() we some disscusions going back an forth about how we may integrate the Greenhouse logo as an indicator that the app was recodring the user's audio input. 
+
+Here is a demo of all the previous changes mentioned:
+
 <p align="center">
   <img src="docs/client-project/demo-3.gif" width="1000" />
 </p>
@@ -516,11 +519,11 @@ In addition
 
 #### Presentation
 
+===
 
 #### Reflection
 
-
-> 🚧 [Under Construction] 🚧
+===
 
 <br/>
 
