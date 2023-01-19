@@ -689,6 +689,8 @@ Although I have already done my internship, I know I will be doing more in the f
 
 #### Week 18 (Client Project, Sprint 3)
 
-collaboration, work division, pair programming
+After working for a long time with my team mates, I realised that working towards a common goal is important but that helping others along the way is arguably even more important. Collaboration certaintly played a key role in determining this project's success. Putting forward skills that other people aren't as strong in can benefit everyone. Throughout this project, I have taken notes on how doing research affects our prototypes. I have learned from others that conclusions drawn from the research is almost as important as the final product, esspetially for such an abstract project.
+
+I have also provided some help to the other team members about programming. I have done some pair programming with [Giovanna](https://i464249.hera.fhict.nl/) to help her get a better graps of how the app works. With her input we managed to improve how the input text is processed to generate images. We have also experimented with a caching mechnaism to store images.
 
 #
