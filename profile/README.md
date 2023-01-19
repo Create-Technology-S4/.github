@@ -441,7 +441,7 @@ By conducting these interviews, we gained valuable insight into their work and t
 
 Last sprint we came you with a prototype for the room. This week we wanted to make a prototype for the app we had envisioned up until this point.
 
-From the research I have made, I was able to quickly make a web app (on the left). I had a meeting with the rest of the group and we discussed possible designs and features we wanted to add. For the second sprint demo, this MVP was more than enough to get some useful feedback.
+From the research I have made, I was able to quickly make a web app (on the left). I had a meeting with the rest of the group, and we discussed possible designs and features we wanted to add. For the second sprint demo, this MVP was more than enough to get some useful feedback.
 
 I wanted to address the design of the application as at the time it was absolutely bare bones. [Dion](https://dion-portofolio.webflow.io/) gave me a design he had in mind and I merged it with some design elements that I worked on along with [Kaloyan](https://kaloyanyyanev.myportfolio.com/)'s audio knowledge.
 
@@ -476,7 +476,7 @@ Overall, I think this sprint has shifted into a phase that is more focused on ap
 
 > ICT Methods: Brainstorming
 
-After the end of Sprint 2, our research and prototype has been validated; our client was happy with the direcion we were going with. The next step for us was to discuss how we were going to use the app we made in an actual showroom. 
+After the end of Sprint 2, our research and prototype has been validated; our client was happy with the direction we were going with. The next step for us was to discuss how we were going to use the app we made in an actual showroom.
 
 During that period right before Christmas, I left early and therefore was not able to play an active role in where we were going to setup everything. However, based on the location they have chosen and the feedback, I took the time to modify the app to match our needs. Since the room is going to have three projectors, we talked about displaying three different types of images randomly. One image would be generated directly based on the input, another using synonyms and lastly using antonyms.
 
@@ -486,7 +486,7 @@ During that period right before Christmas, I left early and therefore was not ab
 
 To generate the three different images, [Coen](https://portfoliosemester4.vercel.app/) and I made some research online about APIs or libraries we could use to do this. We ultimately settled on using an external API to fetch the synonyms/antonyms.
 
-The next step was about intergrating that with the current version of the app. To cut the technical details short, we have generate some diagrams on how the app looked like before and after the changes we made.
+The next step was about integrating that with the current version of the app. To cut the technical details short, we have generated some diagrams on how the app looked like before and after the changes we made.
 
 ##### Prior to changes
 
@@ -500,7 +500,7 @@ The next step was about intergrating that with the current version of the app. T
   <img src="docs/client-project/1-api.png" width="500" />
 </p>
 
-After the changes and some user testing, we noticed that sometimes the Dalle API would return a 400 response conveying that some words used were illegal (ei. cocaine, decapitation, killing). Although those words may not have been inputed by the user directly, sometimes the synonym/antonym API can generate those prompts.
+After the changes and some user testing, we noticed that sometimes the Dalle API would return a 400 response conveying that some words used were illegal (ei. cocaine, decapitation, killing). Although those words may not have been inputted by the user directly, sometimes the synonym/antonym API can generate those prompts.
 
 To address this issue, we decided to simply regenerate the errored image into something that displays a stop sign. Here the process of generating images from a single audio input:
 
@@ -512,7 +512,7 @@ To address this issue, we decided to simply regenerate the errored image into so
 
 As part of the skills that I wanted to improve upon, I wanted to modify the user interface to allow the user to have more control over what the app does. Such as adding whether to record the audio or clear the app or reveal the which prompt corresponds to which image.
 
-In addition, together with [Kaloyan](https://kaloyanyyanev.myportfolio.com/) we some disscusions going back an forth about how we may integrate the Greenhouse logo as an indicator that the app was recodring the user's audio input. 
+In addition, together with [Kaloyan](https://kaloyanyyanev.myportfolio.com/) we some discussions going back a forth about how we may integrate the Greenhouse logo as an indicator that the app was recording the user's audio input.
 
 Here is a demo of all the previous changes mentioned:
 
@@ -524,7 +524,7 @@ Here is a demo of all the previous changes mentioned:
 
 > ICT Methods: Wizard of Ozz
 
-Our final presentation revolved around the room directly. We have the app hidden from view an only show the projectors. A person behind the scenes ensures that everything works as intended. A microphone is handed to whom ever is in the room and they may talked into the mic to generate a set of new images, as shown below.
+Our final presentation revolved around the room directly. We have the app hidden from view an only show the projectors. A person behind the scenes ensures that everything works as intended. A microphone is handed to whom ever is in the room, and they may talk into the mic to generate a set of new images, as shown below.
 
 <p align="center">
   <img src="docs/client-project/room-1.jpeg" width="500" />
@@ -540,7 +540,7 @@ Our client, Tim, experiencing the room in person:
 
 #### Reflection
 
-It is safe to say that I don't think I have had this much fun working for an academic project as a group. Contrary to the previous semesters, my work focused much less around programming and finding software solutions for some problem. Much of the work revolved around research, observations and interviews. Most of the group members have played a signifcant role in the success of this project and I am happy to have taken part in this.
+It is safe to say that I don't think I have had this much fun working for an academic project as a group. Contrary to the previous semesters, my work focused much less around programming and finding software solutions for some problem. Much of the work revolved around research, observations and interviews. Most of the group members have played a significant role in the success of this project, and I am happy to have taken part in this.
 
 Although, I have learned many things from my peers and teachers, I was also able to contribute and help others bring ideas to light. I am sad that this project has come to a close but am also very proud to have been part of a group that has been nominated for a possible award out of 85!
 
@@ -574,7 +574,7 @@ The client project enables me to explore the current state of those AIs and how 
 
 #### Week 18 (Client Project, Sprint 3)
 
-During the demo day, I came to the realisation that our project, although technically simple, touched base on something deeper than just using technology to create a product. Our project was about exploring how we can break traditions through inventions; how can we break the way humans create ideas based on existing sources of inspritation using generative AI. The idea that a computer is able to quickly compose an image based some on input and project that to a group of people achieves this. Instead of relying on work online or from other co-workers, AIs can be used to create inspiration for you. This can be esspecially helpful in areas where sources of inspiration are scrace. Generative AI can be used beyond just sources of inspiration as well.
+During the demo day, I came to the realisation that our project, although technically simple, touched base on something deeper than just using technology to create a product. Our project was about exploring how we can break traditions through inventions; how can we break the way humans create ideas based on existing sources of inspiration using generative AI. The idea that a computer is able to quickly compose an image based some on input and project that to a group of people achieves this. Instead of relying on work online or from other co-workers, AIs can be used to create inspiration for you. This can be especially helpful in areas where sources of inspiration are scarce. Generative AI can be used beyond just sources of inspiration as well.
 
 #
 
@@ -628,7 +628,7 @@ Essentially, the user is able to input some information through speech and the a
 
 #### Week 18 (Client Project, Sprint 3)
 
-Our project's success is ultimetly measured by the user experience. We used a variety of different pieces of technology to create an interactive room. By incorporating audio input and visual feedback on large screens, our product served as means to promote conversation and brainstorming. Throughout our testing, people were easily able to comment on some pictures like pointing out odd features or unexpected compositions.
+Our project's success is ultimately measured by the user experience. We used a variety of different pieces of technology to create an interactive room. By incorporating audio input and visual feedback on large screens, our product served as means to promote conversation and brainstorming. Throughout our testing, people were easily able to comment on some pictures like pointing out odd features or unexpected compositions.
 
 #
 
@@ -686,7 +686,7 @@ For the second sprint presentation I was much more active as I was one of the tw
 
 #### Week 18 (Client Project, Sprint 3)
 
-To fully showcase our final product, we ensured that our room was fully setup for the demo day. The final room represent months of collborative research and development. When our client visted, we have demonstrated our application and how it relates to their needs. Tim, as well as most visiters, was impressed and wanted to learn more about the application and how it works technically. I was incharge of explaining the more technical details and providing information about the APIs useds, the process behind generating data etc.
+To fully showcase our final product, we ensured that our room was fully setup for the demo day. The final room represent months of collaborative research and development. When our client visited, we have demonstrated our application and how it relates to their needs. Tim, as well as most visitors, was impressed and wanted to learn more about the application and how it works technically. I was in charge of explaining the more technical details and providing information about the APIs used, the process behind generating data etc.
 
 #
 
@@ -710,8 +710,8 @@ Although I have already done my internship, I know I will be doing more in the f
 
 #### Week 18 (Client Project, Sprint 3)
 
-After working for a long time with my team mates, I realised that working towards a common goal is important but that helping others along the way is arguably even more important. Collaboration certaintly played a key role in determining this project's success. Putting forward skills that other people aren't as strong in can benefit everyone. Throughout this project, I have taken notes on how doing research affects our prototypes. I have learned from others that conclusions drawn from the research is almost as important as the final product, esspetially for such an abstract project.
+After working for a long time with my teammates, I realised that working towards a common goal is important but that helping others along the way is arguably even more important. Collaboration certainly played a key role in determining this project's success. Putting forward skills that other people aren't as strong in can benefit everyone. Throughout this project, I have taken notes on how doing research affects our prototypes. I have learned from others that conclusions drawn from the research is almost as important as the final product, especially for such an abstract project.
 
-I have also provided some help to the other team members about programming. I have done some pair programming with [Giovanna](https://i464249.hera.fhict.nl/) to help her get a better graps of how the app works. With her input we managed to improve how the input text is processed to generate images. We have also experimented with a caching mechnaism to store images.
+I have also provided some help to the other team members about programming. I have done some pair programming with [Giovanna](https://i464249.hera.fhict.nl/) to help her get a better grasp of how the app works. With her input we managed to improve how the input text is processed to generate images. We have also experimented with a caching mechanism to store images.
 
 #
