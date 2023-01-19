@@ -583,6 +583,7 @@ During the second sprint, I have spent some time putting the research I have don
 
 #### Week 18 (Client Project, Sprint 3)
 
+===
 
 #
 
@@ -605,6 +606,8 @@ From the feedback I have received previously, I was told to improve my creative 
 Essentially, the user is able to input some information through speech and the app would handle generating and displaying the image autonomously.
 
 #### Week 18 (Client Project, Sprint 3)
+
+Our project's success is ultimetly measured by the user experience. By incorporating audio input and visual feedback on large screens, our product served as means to promote conversation and brainstorming. Throughout our testing, people were easily able to comment on some pictures like pointing out odd features or unexpected compositions.
 
 incorporating different
 user input, the room experience
@@ -637,7 +640,7 @@ Overall, I am quite happy with the prototypes and I think they were able to conv
 
 #### Week 18 (Client Project, Sprint 3)
 
-final app
+After getting a room for our project, I worked closely with [Coen]() to be able to have the app displayed on three projectors simultaneously. The initial version of the app had some convenient functionalities that were missing such as to clearing the prompts for the next user. The final version of the app was tailored to the showroom's setup and were able to effectively use during the demo day. Overall, I am very pleased with the final version of the app prototype and how it was used.
 
 #
 
@@ -666,6 +669,8 @@ For the second sprint presentation I was much more active as I was one of the tw
 #### Week 18 (Client Project, Sprint 3)
 
 demo day, the room
+
+===
 
 #
 
