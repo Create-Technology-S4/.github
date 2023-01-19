@@ -602,9 +602,7 @@ During the second sprint, I have spent some time putting the research I have don
 
 #### Week 18 (Client Project, Sprint 3)
 
-triggering thoughts by randomizing images
-
-===
+Looking back at project as a whole, we were able to come up with a concrete solution from a very abstract research question. This was made possible by doing extensive research, brainstorming and creative thinking. We had many ideas and did a series of prototypes which all differed from one-another. Starting with a plywood room to a web app to and the combination of both ideas into an experience room. My contribution has primarily revolved around technical research and implementation, although I also did research and interviews to understand our clients better and how we may incorporate generative AI into their work environment. I believe the final product has been a success and were able to convey that to people. 
 
 #
 
