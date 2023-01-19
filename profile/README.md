@@ -555,7 +555,7 @@ The client project enables me to explore the current state of those AIs and how 
 
 #### Week 18 (Client Project, Sprint 3)
 
-breaking traditions (using internet/other people's stuff)
+During the demo day, I came to the realisation that our project, although technically simple, touched base on something deeper than just using technology to create a product. Our project was about exploring how we can break traditions through inventions; how can we break the way humans create ideas based on existing sources of inspritation using generative AI. The idea that a computer is able to quickly compose an image based some on input and project that to a group of people achieves this. Instead of relying on work online or from other co-workers, AIs can be used to create inspiration for you. This can be esspecially helpful in areas where sources of inspiration are scrace. Generative AI can be used beyond just sources of inspiration as well.
 
 #
 
@@ -606,6 +606,7 @@ Essentially, the user is able to input some information through speech and the a
 
 #### Week 18 (Client Project, Sprint 3)
 
+incorporating different
 user input, the room experience
 
 #
