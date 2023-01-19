@@ -510,7 +510,7 @@ To address this issue, we decided to simply regenerate the errored image into so
 
 #### UI Improvements
 
-As part of the skills that I wanted to improve upon, I wanted to modify the user interface to allow the user to have more control over what the app does. Such as adding whether to record the audio or simply clear the app.
+As part of the skills that I wanted to improve upon, I wanted to modify the user interface to allow the user to have more control over what the app does. Such as adding whether to record the audio or clear the app or reveal the which prompt corresponds to which image.
 
 In addition, together with [Kaloyan](https://kaloyanyyanev.myportfolio.com/) we some disscusions going back an forth about how we may integrate the Greenhouse logo as an indicator that the app was recodring the user's audio input. 
 
@@ -523,6 +523,13 @@ Here is a demo of all the previous changes mentioned:
 #### Presentation
 
 > ICT Methods: Wizard of Ozz
+
+Our final presentation revolved around the room directly. We have the app hidden from view an only show the projectors. A person behind the scenes ensures that everything works as intended. A microphone is handed to whom ever is in the room and they may talked into the mic to generate a set of new images, as shown below.
+
+<p align="center">
+  <img src="docs/client-project/room-1.jpeg" width="500" />
+  <img src="docs/client-project/room-2.jpeg" width="500" />
+</p>
 
 ===
 
@@ -671,6 +678,8 @@ My part in this was relatively passive for the first sprint presentation. I did 
 For the second sprint presentation I was much more active as I was one of the two presenters. I really enjoyed presenting because it enabled me to showcase the work and research we have put so far. I made a demo app to demonstrate more concretely how we envisioned gen. AI to be used by Greenhouse employees. The reception of the presentation was very positive, and I was satisfied with the feedback we got to further improve the app and, in general, our project.
 
 #### Week 18 (Client Project, Sprint 3)
+
+To fully showcase our final product, we ensured that our room was fully setup for the demo day. The final room represent months of collborative research and development.
 
 demo day, the room
 
