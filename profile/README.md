@@ -531,11 +531,18 @@ Our final presentation revolved around the room directly. We have the app hidden
   <img src="docs/client-project/room-2.jpeg" width="500" />
 </p>
 
-===
+Our client, Tim, experiencing the room in person:
+
+<p align="center">
+  <img src="docs/client-project/pres-tim.jpg" width="500" />
+  <img src="docs/client-project/pres-me.jpg" width="500" />
+</p>
 
 #### Reflection
 
-===
+It is safe to say that I don't think I have had this much fun working for an academic project as a group. Contrary to the previous semesters, my work focused much less around programming and finding software solutions for some problem. Much of the work revolved around research, observations and interviews. Most of the group members have played a signifcant role in the success of this project and I am happy to have taken part in this.
+
+Although, I have learned many things from my peers and teachers, I was also able to contribute and help others bring ideas to light. I am sad that this project has come to a close but am also very proud to have been part of a group that has been nominated for a possible award out of 85!
 
 <br/>
 
@@ -679,11 +686,7 @@ For the second sprint presentation I was much more active as I was one of the tw
 
 #### Week 18 (Client Project, Sprint 3)
 
-To fully showcase our final product, we ensured that our room was fully setup for the demo day. The final room represent months of collborative research and development.
-
-demo day, the room
-
-===
+To fully showcase our final product, we ensured that our room was fully setup for the demo day. The final room represent months of collborative research and development. When our client visted, we have demonstrated our application and how it relates to their needs. Tim, as well as most visiters, was impressed and wanted to learn more about the application and how it works technically. I was incharge of explaining the more technical details and providing information about the APIs useds, the process behind generating data etc.
 
 #
 
