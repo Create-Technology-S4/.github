@@ -292,7 +292,7 @@ As a group, we have decided to provide feedback for each other too:
 
 > Duration: **9 Weeks**
 
-> Members:  **[Dion](https://dion-portofolio.webflow.io/), [Giovanna](https://i464249.hera.fhict.nl), [Coen](https://portfoliosemester4.vercel.app/), [Rik](), [Kaloyan](), Noah (myself)**
+> Members:  **[Dion](https://dion-portofolio.webflow.io/), [Giovanna](https://i464249.hera.fhict.nl), [Coen](https://portfoliosemester4.vercel.app/), [Rik](https://github.com/RikJansenTU/FontysS4), [Kaloyan](https://kaloyanyyanev.myportfolio.com/), Noah (myself)**
 
 This project was our final and, arguably, the most important project of the semester. Being an upscale version of the previous project, we were a group of six and focused on exploring how Greenhouse, a digital marketing company in Eindhoven, can use generative AI in their field.
 
@@ -443,7 +443,7 @@ Last sprint we came you with a prototype for the room. This week we wanted to ma
 
 From the research I have made, I was able to quickly make a web app (on the left). I had a meeting with the rest of the group and we discussed possible designs and features we wanted to add. For the second sprint demo, this MVP was more than enough to get some useful feedback.
 
-I wanted to address the design of the application as at the time it was absolutely bare bones. [Dion](https://dion-portofolio.webflow.io/) gave me a design he had in mind and I merged it with some design elements that I worked on along with [Kaloyan](https://dion-portofolio.webflow.io/)'s audio knowledge.
+I wanted to address the design of the application as at the time it was absolutely bare bones. [Dion](https://dion-portofolio.webflow.io/) gave me a design he had in mind and I merged it with some design elements that I worked on along with [Kaloyan](https://kaloyanyyanev.myportfolio.com/)'s audio knowledge.
 
 The results I think we adequate for demo purposes (on the right).
 
@@ -484,7 +484,7 @@ During that period right before Christmas, I left early and therefore was not ab
 
 > ICT Methods: Usability testing, Wizard of Ozz, Requirements prioritization
 
-To generate the three different images, Coen and I made some research online about APIs or libraries we could use to do this. We ultimately settled on using an external API to fetch the synonyms/antonyms.
+To generate the three different images, [Coen](https://portfoliosemester4.vercel.app/) and I made some research online about APIs or libraries we could use to do this. We ultimately settled on using an external API to fetch the synonyms/antonyms.
 
 The next step was about intergrating that with the current version of the app. To cut the technical details short, we have generate some diagrams on how the app looked like before and after the changes we made.
 
@@ -512,7 +512,7 @@ To address this issue, we decided to simply regenerate the errored image into so
 
 As part of the skills that I wanted to improve upon, I wanted to modify the user interface to allow the user to have more control over what the app does. Such as adding whether to record the audio or simply clear the app.
 
-In addition, together with [Kaloyan]() we some disscusions going back an forth about how we may integrate the Greenhouse logo as an indicator that the app was recodring the user's audio input. 
+In addition, together with [Kaloyan](https://kaloyanyyanev.myportfolio.com/) we some disscusions going back an forth about how we may integrate the Greenhouse logo as an indicator that the app was recodring the user's audio input. 
 
 Here is a demo of all the previous changes mentioned:
 
@@ -608,7 +608,7 @@ In my Duo Project, the final prototype had key interactive elements; the ultraso
 
 #### Week 15 (Client Project, Sprint 1 & 2)
 
-From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckily for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](), I worked on what believe to be a really cool way of visualizing voice inputs because that was a feature that I really wanted to highlight. Later, [Dion](https://dion-portofolio.webflow.io/) had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing.
+From the feedback I have received previously, I was told to improve my creative skills when it comes to working with user interfaces this is definitely a something I would like to address in this project. Luckily for me, we wanted to have an app. This time, I paid particular attention to the appearance of the web application. With the input of [Kaloyan](https://kaloyanyyanev.myportfolio.com/), I worked on what believe to be a really cool way of visualizing voice inputs because that was a feature that I really wanted to highlight. Later, [Dion](https://dion-portofolio.webflow.io/) had showed me his take on the app's UI and have incorporated some elements which resulted in a very simple but functional demo that was also appealing.
 
 Essentially, the user is able to input some information through speech and the app would handle generating and displaying the image autonomously.
 
@@ -644,7 +644,7 @@ Overall, I am quite happy with the prototypes and I think they were able to conv
 
 #### Week 18 (Client Project, Sprint 3)
 
-After getting a room for our project, I worked closely with [Coen]() to be able to have the app displayed on three projectors simultaneously. The initial version of the app had some convenient functionalities that were missing such as to clearing the prompts for the next user. The final version of the app was tailored to the showroom's setup and were able to effectively use during the demo day. Overall, I am very pleased with the final version of the app prototype and how it was used.
+After getting a room for our project, I worked closely with [Coen](https://portfoliosemester4.vercel.app/) to be able to have the app displayed on three projectors simultaneously. The initial version of the app had some convenient functionalities that were missing such as to clearing the prompts for the next user. The final version of the app was tailored to the showroom's setup and were able to effectively use during the demo day. Overall, I am very pleased with the final version of the app prototype and how it was used.
 
 #
 
