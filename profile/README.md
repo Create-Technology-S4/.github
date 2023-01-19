@@ -474,11 +474,15 @@ Overall, I think this sprint has shifted into a phase that is more focused on ap
 
 #### Discussion
 
+> ICT Methods: Brainstorming
+
 After the end of Sprint 2, our research and prototype has been validated; our client was happy with the direcion we were going with. The next step for us was to discuss how we were going to use the app we made in an actual showroom. 
 
 During that period right before Christmas, I left early and therefore was not able to play an active role in where we were going to setup everything. However, based on the location they have chosen and the feedback, I took the time to modify the app to match our needs. Since the room is going to have three projectors, we talked about displaying three different types of images randomly. One image would be generated directly based on the input, another using synonyms and lastly using antonyms.
 
 #### Addressing New Requirements
+
+> ICT Methods: Usability testing, Wizard of Ozz, Requirements prioritization
 
 To generate the three different images, Coen and I made some research online about APIs or libraries we could use to do this. We ultimately settled on using an external API to fetch the synonyms/antonyms.
 
@@ -517,6 +521,8 @@ Here is a demo of all the previous changes mentioned:
 </p>
 
 #### Presentation
+
+> ICT Methods: Wizard of Ozz
 
 ===
 
