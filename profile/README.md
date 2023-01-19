@@ -516,7 +516,6 @@ Here is a demo of all the previous changes mentioned:
   <img src="docs/client-project/demo-3.gif" width="1000" />
 </p>
 
-
 #### Presentation
 
 ===
@@ -583,6 +582,8 @@ During the second sprint, I have spent some time putting the research I have don
 
 #### Week 18 (Client Project, Sprint 3)
 
+triggering thoughts by randomizing images
+
 ===
 
 #
@@ -607,10 +608,7 @@ Essentially, the user is able to input some information through speech and the a
 
 #### Week 18 (Client Project, Sprint 3)
 
-Our project's success is ultimetly measured by the user experience. By incorporating audio input and visual feedback on large screens, our product served as means to promote conversation and brainstorming. Throughout our testing, people were easily able to comment on some pictures like pointing out odd features or unexpected compositions.
-
-incorporating different
-user input, the room experience
+Our project's success is ultimetly measured by the user experience. We used a variety of different pieces of technology to create an interactive room. By incorporating audio input and visual feedback on large screens, our product served as means to promote conversation and brainstorming. Throughout our testing, people were easily able to comment on some pictures like pointing out odd features or unexpected compositions.
 
 #
 
